@@ -32,7 +32,7 @@ Screenshots show an empty demonstration state; your own entries appear after you
 
 ## Your data and backups
 
-Workout history, meals, routines, settings, and profile information are stored locally in the app's browser storage on that device. There is no account, backend, or automatic cloud sync. Export a JSON backup from **Settings → Your data** regularly, especially before changing devices or clearing browser/app data. Importing a backup replaces the current entries and targets. Your personal logs are not stored in this repository.
+Workout history, meals, routines, settings, and profile information are stored locally in the app's browser storage on that device. There is no account, backend, or automatic cloud sync yet. See the [Google Drive setup guide](docs/google-drive-setup.md) for the next stage. Export a JSON backup from **Settings → Your data & backups** regularly, especially before changing devices or clearing browser/app data. You can share the file to iCloud Drive, Google Drive, or OneDrive and replace the prior file. Choose a file to preview its entry counts before restoring; restoring replaces the data on that device. Your personal logs are not stored in this repository.
 
 Sharing is optional: the Today button shows a preview and lets you select what to include. The device share sheet or copy action is used only when you choose to share.
 
@@ -48,10 +48,13 @@ src/components/training-overview.js  React training overview and tabs
 src/components/training-details.js   React analysis and history screens
 src/components/navigation.js         React bottom navigation
 src/components/training-plan.js       React routine and exercise library
-src/components/settings.js            React nutrition planner and wheels
+src/components/settings-v18.js        React nutrition planner and wheels
+src/components/backup.js              Backup export, preview, and restore
+src/data/backup.js                    Versioned backup validation
+src/components/cloud-setup.js        Cloud setup status
 src/components/entry-dialogs.js       React logging and share dialogs
 src/components/edit-dialogs.js        React routine and exercise dialogs
-src/legacy/core.js         Existing storage, navigation, and entry handling
+src/legacy/core-v18.js     Existing storage, navigation, and entry handling
 src/legacy/workout-v17.js  Workout state, timer, and initial plan
 src/legacy/training-v17.js Training state and delegated actions
 src/legacy/training-v16.js Previous script retained for cached older app shells
@@ -59,7 +62,7 @@ src/legacy/training.js     Previous script retained for cached older app shells
 src/legacy/routine.js      Routine editor
 src/legacy/library-v17.js  Exercise filtering and reference photos
 src/legacy/library.js      Previous script retained for cached older app shells
-src/legacy/nutrition-v17.js Affirmations, nutrition calculations, and React bridge
+src/legacy/nutrition-v18.js Affirmations, nutrition calculations, and React bridge
 src/legacy/nutrition-v16.js Previous bridge retained for cached older app shells
 src/legacy/nutrition-v14.js Previous bridge retained for cached older app shells
 src/legacy/nutrition.js     Previous bridge retained for cached older app shells
@@ -79,10 +82,11 @@ python3 -m http.server 8000
 # Open http://localhost:8000
 ```
 
-Run the dependency-free smoke check with Node.js:
+Run the dependency-free smoke checks with Node.js:
 
 ```sh
 node tests/modular.cjs
+node tests/backup.cjs
 ```
 
 The static site can be deployed from the repository root on GitHub Pages. The service worker caches the scripts, style sheet, and data files; increment its cache name when changing cached assets. React's production files are vendored locally so the core app does not depend on a third-party CDN. The compatibility layer still contains older helpers and event handlers; it can be simplified as those actions are moved into React. Older versioned files remain available to previously cached app shells.
