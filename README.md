@@ -1,32 +1,80 @@
 # FORGE
 
-A personal workout and nutrition tracker designed for iPhone. This is a static progressive web app: exercise and food entries are stored locally on your device. Export backups from Settings regularly; clearing website data or changing devices can remove local data. No cloud sync is configured.
+**Your training. Your fuel. Your progress.**
 
-## Host on GitHub Pages
+FORGE is a personal fitness tracker designed for iPhone. It combines a flexible workout planner, exercise library, progress analysis, food log, and calorie and macro planner in a dark, mobile-first app. It is a progressive web app (PWA), hosted as a static website, so you can add it to your Home Screen without an App Store subscription.
 
-In this repository, open Settings → Pages, choose “Deploy from a branch”, select `main` and `/ (root)`, and save. Open the resulting HTTPS URL in Safari, tap Share → Add to Home Screen, and choose Open as Web App when available.
+**[Open FORGE](https://mobiiin.github.io/mobin_gym_app/)** · [Browse the affirmation and quotation bank](quotes.txt)
 
-The public repository contains app code and the initial workout template. Your personal logged entries stay on your device and are not committed to the repository.
+## Inside the app
 
-## Local development
+| Today | Training |
+|:---:|:---:|
+| ![Today dashboard with affirmation and nutrition summary](assets/screenshots/today.png) | ![Training overview with workout actions and rest timer](assets/screenshots/training.png) |
+| Exercise library | Muscle analysis |
+| ![Exercise library and search filters](assets/screenshots/exercises.png) | ![Muscle analysis and progress overview](assets/screenshots/analysis.png) |
 
-Serve the repository over HTTP (for example, `python3 -m http.server`) and open it in a browser. Service workers and Home Screen installation require a supported secure context (HTTPS or localhost). To publish updates to the app shell, update the service worker cache version in `sw.js`.
+Screenshots show an empty demonstration state; your own entries appear after you start logging.
 
-## Exercise library
+- **Today:** Daily food and training summaries, a random affirmation or sourced quotation, quick logging, and a shareable text preview. You choose which details to include before sharing.
+- **Training:** Log sets and cardio, track body weight, use a rest timer, and explore the overview, routine, exercise library, analysis, and history tabs.
+- **Routines:** Create and switch between routines, add or remove training days and exercises, reorder or move exercises, and set optional targets and notes. The starting template uses the owner's five-day split, but you can build a different schedule.
+- **Exercise library:** Browse 876 exercises from Free Exercise DB plus additional cardio activities and your own custom exercises. Filter by body region, muscle, or equipment. Exercise reference photos require an internet connection.
+- **Analysis:** Inspect training history by assigned primary muscle, including set counts and weighted exercise trends. These describe logged training, not measured muscle growth.
+- **Fuel and goals:** Log food and macros manually. The optional calorie and macro planner estimates a starting target using your profile, activity level, weight goal, and preferences; review the result before applying it.
+- **Inspiration:** The local [quote bank](quotes.txt) mixes original FORGE affirmations with attributed quotations and source links. The refresh button chooses another message.
 
-The offline library adapts the 876-exercise JSON dataset from [Free Exercise DB](https://github.com/yuhonas/free-exercise-db), distributed under the Unlicense; see `EXERCISE_DATA_LICENSE.txt`. Additional cardio activities are included in the app. Exercise muscle labels are approximate and the analysis counts only each set's assigned primary muscle.
+## Install on iPhone
 
-## Nutrition estimator
+1. Open [FORGE](https://mobiiin.github.io/mobin_gym_app/) in Safari.
+2. Tap **Share** → **Add to Home Screen**. Choose **Open as Web App** if offered, then tap **Add**.
+3. Launch FORGE from the Home Screen. The app shell and core data files are cached for offline use after a successful first load.
 
-FORGE uses the [Mifflin–St Jeor equations](https://pubmed.ncbi.nlm.nih.gov/2305711/) and an activity multiplier to estimate maintenance. It approximates the requested weight-change energy difference using 7,700 kcal/kg; actual changes are nonlinear ([NIDDK](https://www.niddk.nih.gov/health-information/professionals/diabetes-discoveries-practice/nih-body-weight-planner)). Default protein targets use 1.8 g/kg for maintenance, 2.0 g/kg for a bulk, and 2.2 g/kg for a cut, with optional 1.6–2.2 g/kg settings. Fat defaults to 30% of calories (choice of 25%, 30%, or 35%) with a 0.6 g/kg floor; carbohydrates use the remaining energy. These are practical starting choices rather than proven optimal amounts. They are starting estimates, not medical advice. Entries, profile and goals remain on-device, and a calculation must be explicitly applied.
+## Your data and backups
 
-The original affirmation bank was written for this app, informed by [Cleveland Clinic's explanation of positive affirmations](https://health.clevelandclinic.org/do-positive-affirmations-work). It is not a collection of attributed quotations.
+Workout history, meals, routines, settings, and profile information are stored locally in the app's browser storage on that device. There is no account, backend, or automatic cloud sync. Export a JSON backup from **Settings → Your data** regularly, especially before changing devices or clearing browser/app data. Importing a backup replaces the current entries and targets. Your personal logs are not stored in this repository.
 
-### Nutrition evidence
+Sharing is optional: the Today button shows a preview and lets you select what to include. The device share sheet or copy action is used only when you choose to share.
 
-- [Morton et al. (2018): protein and resistance-training meta-analysis](https://pubmed.ncbi.nlm.nih.gov/28698222/).
-- [Longland et al. (2016): protein during a short energy deficit and intense training](https://pubmed.ncbi.nlm.nih.gov/26817506/).
-- [Garthe et al. (2011): slower versus faster weight loss in athletes](https://pubmed.ncbi.nlm.nih.gov/21558571/).
-- [Helms et al. (2023): energy surplus size during resistance training](https://pubmed.ncbi.nlm.nih.gov/37914977/).
+## Development
 
-Protein needs vary, especially with high body fat, kidney disease, and other health factors. Calculations do not guarantee muscle gain, muscle retention, fat loss, or a target date. A large carbohydrate value is a consequence of the calorie target and selected protein/fat values, not a prediction that an exact amount is required.
+The React migration is **incremental**. React owns the Today screen using small components; the rest of the application still runs on the existing JavaScript implementation. The shared storage format and existing event handlers are retained so existing data continues to work. This is a static app with no build step or server requirement.
+
+```text
+index.html                 App shell and script loading order
+src/components/today.js    React Today screen and reusable UI components
+src/legacy/core.js         Existing storage, navigation, and entry handling
+src/legacy/workout.js      Workout logging and initial plan
+src/legacy/training.js     Training views, analysis, and cardio
+src/legacy/routine.js      Routine editor
+src/legacy/library.js      Exercise filtering and reference photos
+src/legacy/nutrition.js    Affirmations, nutrition planner, and render bridge
+src/legacy/sharing.js      Share preview, zoom handling, and startup
+src/styles.css             Shared app styles
+vendor/                    Locally hosted React 18.2.0 and React DOM (MIT)
+quotes.txt                 One JSON object per line; add text, author, and optional source
+sw.js                      Offline app shell cache
+```
+
+Serve from the repository root instead of opening `index.html` directly:
+
+```sh
+python3 -m http.server 8000
+# Open http://localhost:8000
+```
+
+Run the dependency-free smoke check with Node.js:
+
+```sh
+node tests/modular.cjs
+```
+
+The static site can be deployed from the repository root on GitHub Pages. The service worker caches the scripts, style sheet, and data files; increment its cache name when changing cached assets. React's production files are vendored locally so the core app does not depend on a third-party CDN. Further screens can move into React incrementally; avoid running React and legacy rendering against the same DOM subtree.
+
+## Sources and limitations
+
+The exercise catalogue adapts [Free Exercise DB](https://github.com/yuhonas/free-exercise-db), distributed under the Unlicense; see [EXERCISE_DATA_LICENSE.txt](EXERCISE_DATA_LICENSE.txt). Muscle labels are approximate. Some exercise images are loaded from the internet.
+
+The nutrition planner uses the [Mifflin–St Jeor equations](https://pubmed.ncbi.nlm.nih.gov/2305711/) and an activity multiplier. It approximates requested weight change using 7,700 kcal/kg; real changes are not linear. Default protein targets are 1.8 g/kg for maintenance, 2.0 g/kg for a bulk, and 2.2 g/kg for a cut, with adjustable protein and fat preferences. Carbohydrates fill remaining calories. These are starting estimates, not guarantees or medical advice.
+
+Research includes [Morton et al. on protein and resistance training](https://pubmed.ncbi.nlm.nih.gov/28698222/), [Longland et al. on protein during a deficit](https://pubmed.ncbi.nlm.nih.gov/26817506/), and [Helms et al. on surplus size](https://pubmed.ncbi.nlm.nih.gov/37914977/). Individual needs vary, and the planner does not predict exactly how much weight change will be muscle or fat.
