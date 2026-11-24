@@ -51,7 +51,8 @@ src/components/training-plan.js       React routine and exercise library
 src/components/settings-v18.js        React nutrition planner and wheels
 src/components/backup.js              Backup export, preview, and restore
 src/data/backup.js                    Versioned backup validation
-src/components/cloud-setup.js        Cloud setup status
+src/cloud/sync-decision.js            Conflict decision rules (not connected yet)
+src/components/cloud-setup-v19.js    Cloud setup status
 src/components/entry-dialogs.js       React logging and share dialogs
 src/components/edit-dialogs.js        React routine and exercise dialogs
 src/legacy/core-v18.js     Existing storage, navigation, and entry handling
@@ -87,6 +88,7 @@ Run the dependency-free smoke checks with Node.js:
 ```sh
 node tests/modular.cjs
 node tests/backup.cjs
+node tests/sync-decision.cjs
 ```
 
 The static site can be deployed from the repository root on GitHub Pages. The service worker caches the scripts, style sheet, and data files; increment its cache name when changing cached assets. React's production files are vendored locally so the core app does not depend on a third-party CDN. The compatibility layer still contains older helpers and event handlers; it can be simplified as those actions are moved into React. Older versioned files remain available to previously cached app shells.

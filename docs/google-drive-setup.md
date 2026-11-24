@@ -1,5 +1,7 @@
 # Preparing Google Drive sync for FORGE
 
+This is a **one-time developer setup for the app owner**, not a step for every FORGE user. Once the app is registered, users will connect with their own Google accounts from inside FORGE.
+
 FORGE currently stores your information on your device. **Automatic Google Drive sync is not enabled yet.** You can export a backup and manually save it in Google Drive, iCloud Drive, or OneDrive using Settings → Your data & backups.
 
 The following setup prepares the Google project needed to connect a browser app. An OAuth client ID is a public identifier; it is not the client secret. Do not paste a client secret into FORGE, its repository, or a chat.
@@ -10,7 +12,7 @@ The following setup prepares the Google project needed to connect a browser app.
 4. Open **Google Auth Platform** (or the OAuth consent screen in APIs & Services), configure the app name and support contact, and choose an audience. For a personal project, an external app in testing can be used with your Google account added as a test user. Google may show an unverified-app warning during testing.
 5. In **Clients** (or **Credentials → Create Credentials → OAuth client ID**), choose **Web application**.
 6. Under **Authorized JavaScript origins**, add `https://mobiiin.github.io`. The origin does not include `/mobin_gym_app/`. For local development, add the precise `http://localhost:PORT` origin you use, such as `http://localhost:8000`.
-7. Create the client. Copy the **client ID** ending in `.apps.googleusercontent.com`; keep the client secret private. The same client ID must be used on each device so all devices access the same app-specific Drive data.
+7. Create the client. Copy the **client ID** ending in `.apps.googleusercontent.com`; keep the client secret private. The app uses this same public client ID on every device; users do not create or enter their own client IDs.
 
 When the integration is ready, FORGE will request only the permissions necessary to identify the connected account and use its application data folder. That folder is hidden from normal Drive browsing, so a single FORGE backup there will not clutter My Drive. Google allows users to delete app data or disconnect the app; retain an independent export as well.
 

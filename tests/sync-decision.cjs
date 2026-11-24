@@ -1,0 +1,3 @@
+const assert=require('node:assert/strict');require('../src/cloud/sync-decision.js');const decide=ForgeSyncDecision.decide;
+for(const [input,expected] of [[{local:'a',remote:null,base:null},'create'],[{local:'a',remote:null,base:'a'},'remote-missing'],[{local:'a',remote:'a',base:null},'in-sync'],[{local:'a',remote:'b',base:null},'choose-initial-copy'],[{local:'b',remote:'a',base:'a'},'upload-local'],[{local:'a',remote:'b',base:'a'},'download-remote'],[{local:'b',remote:'c',base:'a'},'conflict']])assert.equal(decide(input),expected);
+assert.throws(()=>decide({local:'',remote:null,base:null}));console.log('Passed sync decision cases; no provider I/O is enabled.');
