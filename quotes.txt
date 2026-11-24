@@ -124,3 +124,879 @@
 {"text": "Kindness does not consist in gifts, but in gentleness and generosity of spirit.", "author": "The Golden Gems of Life (1883)", "source": "https://www.gutenberg.org/files/51374/51374-h/51374-h.htm"}
 {"text": "Many persons might have attained to wisdom had they not assumed that they already possessed it.", "author": "Thoughts: Selected from Writings of Favorite Authors (1900)", "source": "https://www.gutenberg.org/cache/epub/69627/pg69627-images.html"}
 {"text": "Let us, then, be up and doing, With a heart for any fate; Still achieving, still pursuing, Learn to labor and to wait.", "author": "Henry Wadsworth Longfellow", "source": "https://www.gutenberg.org/files/1365/1365-h/1365-h.htm"}
+{"text": "I can take a thoughtful next step even when the path ahead feels uncertain.", "author": "FORGE"}
+{"text": "I can make time for the people who matter to me.", "author": "FORGE"}
+{"text": "A quiet pause can be a meaningful part of my day.", "author": "FORGE"}
+{"text": "I am allowed to learn while I pursue my goals.", "author": "FORGE"}
+{"text": "My curiosity can grow with practice.", "author": "FORGE"}
+{"text": "I can take a breath and let that be enough for this moment.", "author": "FORGE"}
+{"text": "I can take a thoughtful next step even when today does not go as planned.", "author": "FORGE"}
+{"text": "I can make time for the ideas that excite me.", "author": "FORGE"}
+{"text": "A quiet pause can help me find my next step.", "author": "FORGE"}
+{"text": "I am allowed to learn without comparing my path to anyone else.", "author": "FORGE"}
+{"text": "My curiosity has a place in the life I am building.", "author": "FORGE"}
+{"text": "I can take a breath and see where that small choice leads.", "author": "FORGE"}
+{"text": "I can take a thoughtful next step even when I am still figuring things out.", "author": "FORGE"}
+{"text": "I can make time for the work I care about.", "author": "FORGE"}
+{"text": "A quiet pause can open the door to growth.", "author": "FORGE"}
+{"text": "I am allowed to learn as I build a life that fits me.", "author": "FORGE"}
+{"text": "My curiosity is worth nurturing today.", "author": "FORGE"}
+{"text": "I can take a breath and give the rest of the day room to unfold.", "author": "FORGE"}
+{"text": "I can take a thoughtful next step even when my confidence feels quiet.", "author": "FORGE"}
+{"text": "I can make time for the things I am learning.", "author": "FORGE"}
+{"text": "A quiet pause can make room for something good.", "author": "FORGE"}
+{"text": "I am allowed to learn even when the outcome is uncertain.", "author": "FORGE"}
+{"text": "My curiosity can help me meet a new challenge.", "author": "FORGE"}
+{"text": "I can take a breath and practice being present.", "author": "FORGE"}
+{"text": "I can take a thoughtful next step even when the answer takes time to find.", "author": "FORGE"}
+{"text": "I can make time for the beauty of an ordinary day.", "author": "FORGE"}
+{"text": "A quiet pause can remind me of what I value.", "author": "FORGE"}
+{"text": "I am allowed to learn in ways that feel right for me.", "author": "FORGE"}
+{"text": "My curiosity can make ordinary moments meaningful.", "author": "FORGE"}
+{"text": "I can take a breath and remember that growth takes time.", "author": "FORGE"}
+{"text": "I can take a thoughtful next step even when I need to change direction.", "author": "FORGE"}
+{"text": "I can make time for the friendships I am building.", "author": "FORGE"}
+{"text": "A quiet pause can be worth noticing and celebrating.", "author": "FORGE"}
+{"text": "I am allowed to learn without having everything figured out.", "author": "FORGE"}
+{"text": "My curiosity does not need to be perfect to matter.", "author": "FORGE"}
+{"text": "I can take a breath and support the person I am becoming.", "author": "FORGE"}
+{"text": "I can take a thoughtful next step even when I cannot do everything at once.", "author": "FORGE"}
+{"text": "I can make time for the goals that feel meaningful.", "author": "FORGE"}
+{"text": "A quiet pause can bring a little more light to today.", "author": "FORGE"}
+{"text": "I am allowed to learn at a pace that respects my needs.", "author": "FORGE"}
+{"text": "My curiosity can guide me toward a thoughtful choice.", "author": "FORGE"}
+{"text": "I can take a breath and bring more care into my day.", "author": "FORGE"}
+{"text": "I can take a thoughtful next step even when a challenge feels unfamiliar.", "author": "FORGE"}
+{"text": "I can make time for my own creative voice.", "author": "FORGE"}
+{"text": "A quiet pause can help me move forward with care.", "author": "FORGE"}
+{"text": "I am allowed to learn and still be a work in progress.", "author": "FORGE"}
+{"text": "My curiosity is something I can return to.", "author": "FORGE"}
+{"text": "I can take a breath and appreciate the chance to begin.", "author": "FORGE"}
+{"text": "I can take a thoughtful next step even when I need a moment to pause.", "author": "FORGE"}
+{"text": "I can make time for the moments that help me rest.", "author": "FORGE"}
+{"text": "A quiet pause can be enough to begin again.", "author": "FORGE"}
+{"text": "I am allowed to learn while I discover what matters most.", "author": "FORGE"}
+{"text": "My curiosity can make room for new possibilities.", "author": "FORGE"}
+{"text": "I can take a breath and make room for a different perspective.", "author": "FORGE"}
+{"text": "I can take a thoughtful next step even when I am learning something new.", "author": "FORGE"}
+{"text": "I can make time for the possibilities ahead.", "author": "FORGE"}
+{"text": "A quiet pause can support the life I want to build.", "author": "FORGE"}
+{"text": "I am allowed to learn as I learn from my experiences.", "author": "FORGE"}
+{"text": "My curiosity can support both my goals and my well-being.", "author": "FORGE"}
+{"text": "I can take a breath and celebrate the effort it took.", "author": "FORGE"}
+{"text": "I can take a thoughtful next step even when progress is difficult to see.", "author": "FORGE"}
+{"text": "I can make time for my sense of curiosity.", "author": "FORGE"}
+{"text": "A quiet pause can make a difference over time.", "author": "FORGE"}
+{"text": "I am allowed to learn and make room for the people I love.", "author": "FORGE"}
+{"text": "My curiosity can help me connect with the world around me.", "author": "FORGE"}
+{"text": "I can take a breath and take the next step when I am ready.", "author": "FORGE"}
+{"text": "I can give myself room to learn even when the path ahead feels uncertain.", "author": "FORGE"}
+{"text": "I can make time for the life I am creating.", "author": "FORGE"}
+{"text": "A kind conversation can be a meaningful part of my day.", "author": "FORGE"}
+{"text": "I am allowed to rest while I pursue my goals.", "author": "FORGE"}
+{"text": "My kindness can grow with practice.", "author": "FORGE"}
+{"text": "I can appreciate a small win and let that be enough for this moment.", "author": "FORGE"}
+{"text": "I can give myself room to learn even when today does not go as planned.", "author": "FORGE"}
+{"text": "I can find meaning in the people who matter to me.", "author": "FORGE"}
+{"text": "A kind conversation can help me find my next step.", "author": "FORGE"}
+{"text": "I am allowed to rest without comparing my path to anyone else.", "author": "FORGE"}
+{"text": "My kindness has a place in the life I am building.", "author": "FORGE"}
+{"text": "I can appreciate a small win and see where that small choice leads.", "author": "FORGE"}
+{"text": "I can give myself room to learn even when I am still figuring things out.", "author": "FORGE"}
+{"text": "I can find meaning in the ideas that excite me.", "author": "FORGE"}
+{"text": "A kind conversation can open the door to growth.", "author": "FORGE"}
+{"text": "I am allowed to rest as I build a life that fits me.", "author": "FORGE"}
+{"text": "My kindness is worth nurturing today.", "author": "FORGE"}
+{"text": "I can appreciate a small win and give the rest of the day room to unfold.", "author": "FORGE"}
+{"text": "I can give myself room to learn even when my confidence feels quiet.", "author": "FORGE"}
+{"text": "I can find meaning in the work I care about.", "author": "FORGE"}
+{"text": "A kind conversation can make room for something good.", "author": "FORGE"}
+{"text": "I am allowed to rest even when the outcome is uncertain.", "author": "FORGE"}
+{"text": "My kindness can help me meet a new challenge.", "author": "FORGE"}
+{"text": "I can appreciate a small win and practice being present.", "author": "FORGE"}
+{"text": "I can give myself room to learn even when the answer takes time to find.", "author": "FORGE"}
+{"text": "I can find meaning in the things I am learning.", "author": "FORGE"}
+{"text": "A kind conversation can remind me of what I value.", "author": "FORGE"}
+{"text": "I am allowed to rest in ways that feel right for me.", "author": "FORGE"}
+{"text": "My kindness can make ordinary moments meaningful.", "author": "FORGE"}
+{"text": "I can appreciate a small win and remember that growth takes time.", "author": "FORGE"}
+{"text": "I can give myself room to learn even when I need to change direction.", "author": "FORGE"}
+{"text": "I can find meaning in the beauty of an ordinary day.", "author": "FORGE"}
+{"text": "A kind conversation can be worth noticing and celebrating.", "author": "FORGE"}
+{"text": "I am allowed to rest without having everything figured out.", "author": "FORGE"}
+{"text": "My kindness does not need to be perfect to matter.", "author": "FORGE"}
+{"text": "I can appreciate a small win and support the person I am becoming.", "author": "FORGE"}
+{"text": "I can give myself room to learn even when I cannot do everything at once.", "author": "FORGE"}
+{"text": "I can find meaning in the friendships I am building.", "author": "FORGE"}
+{"text": "A kind conversation can bring a little more light to today.", "author": "FORGE"}
+{"text": "I am allowed to rest at a pace that respects my needs.", "author": "FORGE"}
+{"text": "My kindness can guide me toward a thoughtful choice.", "author": "FORGE"}
+{"text": "I can appreciate a small win and bring more care into my day.", "author": "FORGE"}
+{"text": "I can give myself room to learn even when a challenge feels unfamiliar.", "author": "FORGE"}
+{"text": "I can find meaning in the goals that feel meaningful.", "author": "FORGE"}
+{"text": "A kind conversation can help me move forward with care.", "author": "FORGE"}
+{"text": "I am allowed to rest and still be a work in progress.", "author": "FORGE"}
+{"text": "My kindness is something I can return to.", "author": "FORGE"}
+{"text": "I can appreciate a small win and appreciate the chance to begin.", "author": "FORGE"}
+{"text": "I can give myself room to learn even when I need a moment to pause.", "author": "FORGE"}
+{"text": "I can find meaning in my own creative voice.", "author": "FORGE"}
+{"text": "A kind conversation can be enough to begin again.", "author": "FORGE"}
+{"text": "I am allowed to rest while I discover what matters most.", "author": "FORGE"}
+{"text": "My kindness can make room for new possibilities.", "author": "FORGE"}
+{"text": "I can appreciate a small win and make room for a different perspective.", "author": "FORGE"}
+{"text": "I can give myself room to learn even when I am learning something new.", "author": "FORGE"}
+{"text": "I can find meaning in the moments that help me rest.", "author": "FORGE"}
+{"text": "A kind conversation can support the life I want to build.", "author": "FORGE"}
+{"text": "I am allowed to rest as I learn from my experiences.", "author": "FORGE"}
+{"text": "My kindness can support both my goals and my well-being.", "author": "FORGE"}
+{"text": "I can appreciate a small win and celebrate the effort it took.", "author": "FORGE"}
+{"text": "I can give myself room to learn even when progress is difficult to see.", "author": "FORGE"}
+{"text": "I can find meaning in the possibilities ahead.", "author": "FORGE"}
+{"text": "A kind conversation can make a difference over time.", "author": "FORGE"}
+{"text": "I am allowed to rest and make room for the people I love.", "author": "FORGE"}
+{"text": "My kindness can help me connect with the world around me.", "author": "FORGE"}
+{"text": "I can appreciate a small win and take the next step when I am ready.", "author": "FORGE"}
+{"text": "I can ask for the support I need even when the path ahead feels uncertain.", "author": "FORGE"}
+{"text": "I can find meaning in my sense of curiosity.", "author": "FORGE"}
+{"text": "A small beginning can be a meaningful part of my day.", "author": "FORGE"}
+{"text": "I am allowed to ask questions while I pursue my goals.", "author": "FORGE"}
+{"text": "My creativity can grow with practice.", "author": "FORGE"}
+{"text": "I can listen with an open mind and let that be enough for this moment.", "author": "FORGE"}
+{"text": "I can ask for the support I need even when today does not go as planned.", "author": "FORGE"}
+{"text": "I can find meaning in the life I am creating.", "author": "FORGE"}
+{"text": "A small beginning can help me find my next step.", "author": "FORGE"}
+{"text": "I am allowed to ask questions without comparing my path to anyone else.", "author": "FORGE"}
+{"text": "My creativity has a place in the life I am building.", "author": "FORGE"}
+{"text": "I can listen with an open mind and see where that small choice leads.", "author": "FORGE"}
+{"text": "I can ask for the support I need even when I am still figuring things out.", "author": "FORGE"}
+{"text": "I can bring more attention to the people who matter to me.", "author": "FORGE"}
+{"text": "A small beginning can open the door to growth.", "author": "FORGE"}
+{"text": "I am allowed to ask questions as I build a life that fits me.", "author": "FORGE"}
+{"text": "My creativity is worth nurturing today.", "author": "FORGE"}
+{"text": "I can listen with an open mind and give the rest of the day room to unfold.", "author": "FORGE"}
+{"text": "I can ask for the support I need even when my confidence feels quiet.", "author": "FORGE"}
+{"text": "I can bring more attention to the ideas that excite me.", "author": "FORGE"}
+{"text": "A small beginning can make room for something good.", "author": "FORGE"}
+{"text": "I am allowed to ask questions even when the outcome is uncertain.", "author": "FORGE"}
+{"text": "My creativity can help me meet a new challenge.", "author": "FORGE"}
+{"text": "I can listen with an open mind and practice being present.", "author": "FORGE"}
+{"text": "I can ask for the support I need even when the answer takes time to find.", "author": "FORGE"}
+{"text": "I can bring more attention to the work I care about.", "author": "FORGE"}
+{"text": "A small beginning can remind me of what I value.", "author": "FORGE"}
+{"text": "I am allowed to ask questions in ways that feel right for me.", "author": "FORGE"}
+{"text": "My creativity can make ordinary moments meaningful.", "author": "FORGE"}
+{"text": "I can listen with an open mind and remember that growth takes time.", "author": "FORGE"}
+{"text": "I can ask for the support I need even when I need to change direction.", "author": "FORGE"}
+{"text": "I can bring more attention to the things I am learning.", "author": "FORGE"}
+{"text": "A small beginning can be worth noticing and celebrating.", "author": "FORGE"}
+{"text": "I am allowed to ask questions without having everything figured out.", "author": "FORGE"}
+{"text": "My creativity does not need to be perfect to matter.", "author": "FORGE"}
+{"text": "I can listen with an open mind and support the person I am becoming.", "author": "FORGE"}
+{"text": "I can ask for the support I need even when I cannot do everything at once.", "author": "FORGE"}
+{"text": "I can bring more attention to the beauty of an ordinary day.", "author": "FORGE"}
+{"text": "A small beginning can bring a little more light to today.", "author": "FORGE"}
+{"text": "I am allowed to ask questions at a pace that respects my needs.", "author": "FORGE"}
+{"text": "My creativity can guide me toward a thoughtful choice.", "author": "FORGE"}
+{"text": "I can listen with an open mind and bring more care into my day.", "author": "FORGE"}
+{"text": "I can ask for the support I need even when a challenge feels unfamiliar.", "author": "FORGE"}
+{"text": "I can bring more attention to the friendships I am building.", "author": "FORGE"}
+{"text": "A small beginning can help me move forward with care.", "author": "FORGE"}
+{"text": "I am allowed to ask questions and still be a work in progress.", "author": "FORGE"}
+{"text": "My creativity is something I can return to.", "author": "FORGE"}
+{"text": "I can listen with an open mind and appreciate the chance to begin.", "author": "FORGE"}
+{"text": "I can ask for the support I need even when I need a moment to pause.", "author": "FORGE"}
+{"text": "I can bring more attention to the goals that feel meaningful.", "author": "FORGE"}
+{"text": "A small beginning can be enough to begin again.", "author": "FORGE"}
+{"text": "I am allowed to ask questions while I discover what matters most.", "author": "FORGE"}
+{"text": "My creativity can make room for new possibilities.", "author": "FORGE"}
+{"text": "I can listen with an open mind and make room for a different perspective.", "author": "FORGE"}
+{"text": "I can ask for the support I need even when I am learning something new.", "author": "FORGE"}
+{"text": "I can bring more attention to my own creative voice.", "author": "FORGE"}
+{"text": "A small beginning can support the life I want to build.", "author": "FORGE"}
+{"text": "I am allowed to ask questions as I learn from my experiences.", "author": "FORGE"}
+{"text": "My creativity can support both my goals and my well-being.", "author": "FORGE"}
+{"text": "I can listen with an open mind and celebrate the effort it took.", "author": "FORGE"}
+{"text": "I can ask for the support I need even when progress is difficult to see.", "author": "FORGE"}
+{"text": "I can bring more attention to the moments that help me rest.", "author": "FORGE"}
+{"text": "A small beginning can make a difference over time.", "author": "FORGE"}
+{"text": "I am allowed to ask questions and make room for the people I love.", "author": "FORGE"}
+{"text": "My creativity can help me connect with the world around me.", "author": "FORGE"}
+{"text": "I can listen with an open mind and take the next step when I am ready.", "author": "FORGE"}
+{"text": "I can return to what matters even when the path ahead feels uncertain.", "author": "FORGE"}
+{"text": "I can bring more attention to the possibilities ahead.", "author": "FORGE"}
+{"text": "An honest question can be a meaningful part of my day.", "author": "FORGE"}
+{"text": "I am allowed to try again while I pursue my goals.", "author": "FORGE"}
+{"text": "My patience can grow with practice.", "author": "FORGE"}
+{"text": "I can make a little time to create and let that be enough for this moment.", "author": "FORGE"}
+{"text": "I can return to what matters even when today does not go as planned.", "author": "FORGE"}
+{"text": "I can bring more attention to my sense of curiosity.", "author": "FORGE"}
+{"text": "An honest question can help me find my next step.", "author": "FORGE"}
+{"text": "I am allowed to try again without comparing my path to anyone else.", "author": "FORGE"}
+{"text": "My patience has a place in the life I am building.", "author": "FORGE"}
+{"text": "I can make a little time to create and see where that small choice leads.", "author": "FORGE"}
+{"text": "I can return to what matters even when I am still figuring things out.", "author": "FORGE"}
+{"text": "I can bring more attention to the life I am creating.", "author": "FORGE"}
+{"text": "An honest question can open the door to growth.", "author": "FORGE"}
+{"text": "I am allowed to try again as I build a life that fits me.", "author": "FORGE"}
+{"text": "My patience is worth nurturing today.", "author": "FORGE"}
+{"text": "I can make a little time to create and give the rest of the day room to unfold.", "author": "FORGE"}
+{"text": "I can return to what matters even when my confidence feels quiet.", "author": "FORGE"}
+{"text": "I can allow myself to enjoy the people who matter to me.", "author": "FORGE"}
+{"text": "An honest question can make room for something good.", "author": "FORGE"}
+{"text": "I am allowed to try again even when the outcome is uncertain.", "author": "FORGE"}
+{"text": "My patience can help me meet a new challenge.", "author": "FORGE"}
+{"text": "I can make a little time to create and practice being present.", "author": "FORGE"}
+{"text": "I can return to what matters even when the answer takes time to find.", "author": "FORGE"}
+{"text": "I can allow myself to enjoy the ideas that excite me.", "author": "FORGE"}
+{"text": "An honest question can remind me of what I value.", "author": "FORGE"}
+{"text": "I am allowed to try again in ways that feel right for me.", "author": "FORGE"}
+{"text": "My patience can make ordinary moments meaningful.", "author": "FORGE"}
+{"text": "I can make a little time to create and remember that growth takes time.", "author": "FORGE"}
+{"text": "I can return to what matters even when I need to change direction.", "author": "FORGE"}
+{"text": "I can allow myself to enjoy the work I care about.", "author": "FORGE"}
+{"text": "An honest question can be worth noticing and celebrating.", "author": "FORGE"}
+{"text": "I am allowed to try again without having everything figured out.", "author": "FORGE"}
+{"text": "My patience does not need to be perfect to matter.", "author": "FORGE"}
+{"text": "I can make a little time to create and support the person I am becoming.", "author": "FORGE"}
+{"text": "I can return to what matters even when I cannot do everything at once.", "author": "FORGE"}
+{"text": "I can allow myself to enjoy the things I am learning.", "author": "FORGE"}
+{"text": "An honest question can bring a little more light to today.", "author": "FORGE"}
+{"text": "I am allowed to try again at a pace that respects my needs.", "author": "FORGE"}
+{"text": "My patience can guide me toward a thoughtful choice.", "author": "FORGE"}
+{"text": "I can make a little time to create and bring more care into my day.", "author": "FORGE"}
+{"text": "I can return to what matters even when a challenge feels unfamiliar.", "author": "FORGE"}
+{"text": "I can allow myself to enjoy the beauty of an ordinary day.", "author": "FORGE"}
+{"text": "An honest question can help me move forward with care.", "author": "FORGE"}
+{"text": "I am allowed to try again and still be a work in progress.", "author": "FORGE"}
+{"text": "My patience is something I can return to.", "author": "FORGE"}
+{"text": "I can make a little time to create and appreciate the chance to begin.", "author": "FORGE"}
+{"text": "I can return to what matters even when I need a moment to pause.", "author": "FORGE"}
+{"text": "I can allow myself to enjoy the friendships I am building.", "author": "FORGE"}
+{"text": "An honest question can be enough to begin again.", "author": "FORGE"}
+{"text": "I am allowed to try again while I discover what matters most.", "author": "FORGE"}
+{"text": "My patience can make room for new possibilities.", "author": "FORGE"}
+{"text": "I can make a little time to create and make room for a different perspective.", "author": "FORGE"}
+{"text": "I can return to what matters even when I am learning something new.", "author": "FORGE"}
+{"text": "I can allow myself to enjoy the goals that feel meaningful.", "author": "FORGE"}
+{"text": "An honest question can support the life I want to build.", "author": "FORGE"}
+{"text": "I am allowed to try again as I learn from my experiences.", "author": "FORGE"}
+{"text": "My patience can support both my goals and my well-being.", "author": "FORGE"}
+{"text": "I can make a little time to create and celebrate the effort it took.", "author": "FORGE"}
+{"text": "I can return to what matters even when progress is difficult to see.", "author": "FORGE"}
+{"text": "I can allow myself to enjoy my own creative voice.", "author": "FORGE"}
+{"text": "An honest question can make a difference over time.", "author": "FORGE"}
+{"text": "I am allowed to try again and make room for the people I love.", "author": "FORGE"}
+{"text": "My patience can help me connect with the world around me.", "author": "FORGE"}
+{"text": "I can make a little time to create and take the next step when I am ready.", "author": "FORGE"}
+{"text": "I can make space for a fresh start even when the path ahead feels uncertain.", "author": "FORGE"}
+{"text": "I can allow myself to enjoy the moments that help me rest.", "author": "FORGE"}
+{"text": "A moment of courage can be a meaningful part of my day.", "author": "FORGE"}
+{"text": "I am allowed to take my time while I pursue my goals.", "author": "FORGE"}
+{"text": "My willingness to learn can grow with practice.", "author": "FORGE"}
+{"text": "I can reach out to someone I trust and let that be enough for this moment.", "author": "FORGE"}
+{"text": "I can make space for a fresh start even when today does not go as planned.", "author": "FORGE"}
+{"text": "I can allow myself to enjoy the possibilities ahead.", "author": "FORGE"}
+{"text": "A moment of courage can help me find my next step.", "author": "FORGE"}
+{"text": "I am allowed to take my time without comparing my path to anyone else.", "author": "FORGE"}
+{"text": "My willingness to learn has a place in the life I am building.", "author": "FORGE"}
+{"text": "I can reach out to someone I trust and see where that small choice leads.", "author": "FORGE"}
+{"text": "I can make space for a fresh start even when I am still figuring things out.", "author": "FORGE"}
+{"text": "I can allow myself to enjoy my sense of curiosity.", "author": "FORGE"}
+{"text": "A moment of courage can open the door to growth.", "author": "FORGE"}
+{"text": "I am allowed to take my time as I build a life that fits me.", "author": "FORGE"}
+{"text": "My willingness to learn is worth nurturing today.", "author": "FORGE"}
+{"text": "I can reach out to someone I trust and give the rest of the day room to unfold.", "author": "FORGE"}
+{"text": "I can make space for a fresh start even when my confidence feels quiet.", "author": "FORGE"}
+{"text": "I can allow myself to enjoy the life I am creating.", "author": "FORGE"}
+{"text": "A moment of courage can make room for something good.", "author": "FORGE"}
+{"text": "I am allowed to take my time even when the outcome is uncertain.", "author": "FORGE"}
+{"text": "My willingness to learn can help me meet a new challenge.", "author": "FORGE"}
+{"text": "I can reach out to someone I trust and practice being present.", "author": "FORGE"}
+{"text": "I can make space for a fresh start even when the answer takes time to find.", "author": "FORGE"}
+{"text": "I can be curious about the people who matter to me.", "author": "FORGE"}
+{"text": "A moment of courage can remind me of what I value.", "author": "FORGE"}
+{"text": "I am allowed to take my time in ways that feel right for me.", "author": "FORGE"}
+{"text": "My willingness to learn can make ordinary moments meaningful.", "author": "FORGE"}
+{"text": "I can reach out to someone I trust and remember that growth takes time.", "author": "FORGE"}
+{"text": "I can make space for a fresh start even when I need to change direction.", "author": "FORGE"}
+{"text": "I can be curious about the ideas that excite me.", "author": "FORGE"}
+{"text": "A moment of courage can be worth noticing and celebrating.", "author": "FORGE"}
+{"text": "I am allowed to take my time without having everything figured out.", "author": "FORGE"}
+{"text": "My willingness to learn does not need to be perfect to matter.", "author": "FORGE"}
+{"text": "I can reach out to someone I trust and support the person I am becoming.", "author": "FORGE"}
+{"text": "I can make space for a fresh start even when I cannot do everything at once.", "author": "FORGE"}
+{"text": "I can be curious about the work I care about.", "author": "FORGE"}
+{"text": "A moment of courage can bring a little more light to today.", "author": "FORGE"}
+{"text": "I am allowed to take my time at a pace that respects my needs.", "author": "FORGE"}
+{"text": "My willingness to learn can guide me toward a thoughtful choice.", "author": "FORGE"}
+{"text": "I can reach out to someone I trust and bring more care into my day.", "author": "FORGE"}
+{"text": "I can make space for a fresh start even when a challenge feels unfamiliar.", "author": "FORGE"}
+{"text": "I can be curious about the things I am learning.", "author": "FORGE"}
+{"text": "A moment of courage can help me move forward with care.", "author": "FORGE"}
+{"text": "I am allowed to take my time and still be a work in progress.", "author": "FORGE"}
+{"text": "My willingness to learn is something I can return to.", "author": "FORGE"}
+{"text": "I can reach out to someone I trust and appreciate the chance to begin.", "author": "FORGE"}
+{"text": "I can make space for a fresh start even when I need a moment to pause.", "author": "FORGE"}
+{"text": "I can be curious about the beauty of an ordinary day.", "author": "FORGE"}
+{"text": "A moment of courage can be enough to begin again.", "author": "FORGE"}
+{"text": "I am allowed to take my time while I discover what matters most.", "author": "FORGE"}
+{"text": "My willingness to learn can make room for new possibilities.", "author": "FORGE"}
+{"text": "I can reach out to someone I trust and make room for a different perspective.", "author": "FORGE"}
+{"text": "I can make space for a fresh start even when I am learning something new.", "author": "FORGE"}
+{"text": "I can be curious about the friendships I am building.", "author": "FORGE"}
+{"text": "A moment of courage can support the life I want to build.", "author": "FORGE"}
+{"text": "I am allowed to take my time as I learn from my experiences.", "author": "FORGE"}
+{"text": "My willingness to learn can support both my goals and my well-being.", "author": "FORGE"}
+{"text": "I can reach out to someone I trust and celebrate the effort it took.", "author": "FORGE"}
+{"text": "I can make space for a fresh start even when progress is difficult to see.", "author": "FORGE"}
+{"text": "I can be curious about the goals that feel meaningful.", "author": "FORGE"}
+{"text": "A moment of courage can make a difference over time.", "author": "FORGE"}
+{"text": "I am allowed to take my time and make room for the people I love.", "author": "FORGE"}
+{"text": "My willingness to learn can help me connect with the world around me.", "author": "FORGE"}
+{"text": "I can reach out to someone I trust and take the next step when I am ready.", "author": "FORGE"}
+{"text": "I can approach this moment with curiosity even when the path ahead feels uncertain.", "author": "FORGE"}
+{"text": "I can be curious about my own creative voice.", "author": "FORGE"}
+{"text": "A fresh perspective can be a meaningful part of my day.", "author": "FORGE"}
+{"text": "I am allowed to change direction while I pursue my goals.", "author": "FORGE"}
+{"text": "My ability to adapt can grow with practice.", "author": "FORGE"}
+{"text": "I can notice something beautiful and let that be enough for this moment.", "author": "FORGE"}
+{"text": "I can approach this moment with curiosity even when today does not go as planned.", "author": "FORGE"}
+{"text": "I can be curious about the moments that help me rest.", "author": "FORGE"}
+{"text": "A fresh perspective can help me find my next step.", "author": "FORGE"}
+{"text": "I am allowed to change direction without comparing my path to anyone else.", "author": "FORGE"}
+{"text": "My ability to adapt has a place in the life I am building.", "author": "FORGE"}
+{"text": "I can notice something beautiful and see where that small choice leads.", "author": "FORGE"}
+{"text": "I can approach this moment with curiosity even when I am still figuring things out.", "author": "FORGE"}
+{"text": "I can be curious about the possibilities ahead.", "author": "FORGE"}
+{"text": "A fresh perspective can open the door to growth.", "author": "FORGE"}
+{"text": "I am allowed to change direction as I build a life that fits me.", "author": "FORGE"}
+{"text": "My ability to adapt is worth nurturing today.", "author": "FORGE"}
+{"text": "I can notice something beautiful and give the rest of the day room to unfold.", "author": "FORGE"}
+{"text": "I can approach this moment with curiosity even when my confidence feels quiet.", "author": "FORGE"}
+{"text": "I can be curious about my sense of curiosity.", "author": "FORGE"}
+{"text": "A fresh perspective can make room for something good.", "author": "FORGE"}
+{"text": "I am allowed to change direction even when the outcome is uncertain.", "author": "FORGE"}
+{"text": "My ability to adapt can help me meet a new challenge.", "author": "FORGE"}
+{"text": "I can notice something beautiful and practice being present.", "author": "FORGE"}
+{"text": "I can approach this moment with curiosity even when the answer takes time to find.", "author": "FORGE"}
+{"text": "I can be curious about the life I am creating.", "author": "FORGE"}
+{"text": "A fresh perspective can remind me of what I value.", "author": "FORGE"}
+{"text": "I am allowed to change direction in ways that feel right for me.", "author": "FORGE"}
+{"text": "My ability to adapt can make ordinary moments meaningful.", "author": "FORGE"}
+{"text": "I can notice something beautiful and remember that growth takes time.", "author": "FORGE"}
+{"text": "I can approach this moment with curiosity even when I need to change direction.", "author": "FORGE"}
+{"text": "I can take one small step toward the people who matter to me.", "author": "FORGE"}
+{"text": "A fresh perspective can be worth noticing and celebrating.", "author": "FORGE"}
+{"text": "I am allowed to change direction without having everything figured out.", "author": "FORGE"}
+{"text": "My ability to adapt does not need to be perfect to matter.", "author": "FORGE"}
+{"text": "I can notice something beautiful and support the person I am becoming.", "author": "FORGE"}
+{"text": "I can approach this moment with curiosity even when I cannot do everything at once.", "author": "FORGE"}
+{"text": "I can take one small step toward the ideas that excite me.", "author": "FORGE"}
+{"text": "A fresh perspective can bring a little more light to today.", "author": "FORGE"}
+{"text": "I am allowed to change direction at a pace that respects my needs.", "author": "FORGE"}
+{"text": "My ability to adapt can guide me toward a thoughtful choice.", "author": "FORGE"}
+{"text": "I can notice something beautiful and bring more care into my day.", "author": "FORGE"}
+{"text": "I can approach this moment with curiosity even when a challenge feels unfamiliar.", "author": "FORGE"}
+{"text": "I can take one small step toward the work I care about.", "author": "FORGE"}
+{"text": "A fresh perspective can help me move forward with care.", "author": "FORGE"}
+{"text": "I am allowed to change direction and still be a work in progress.", "author": "FORGE"}
+{"text": "My ability to adapt is something I can return to.", "author": "FORGE"}
+{"text": "I can notice something beautiful and appreciate the chance to begin.", "author": "FORGE"}
+{"text": "I can approach this moment with curiosity even when I need a moment to pause.", "author": "FORGE"}
+{"text": "I can take one small step toward the things I am learning.", "author": "FORGE"}
+{"text": "A fresh perspective can be enough to begin again.", "author": "FORGE"}
+{"text": "I am allowed to change direction while I discover what matters most.", "author": "FORGE"}
+{"text": "My ability to adapt can make room for new possibilities.", "author": "FORGE"}
+{"text": "I can notice something beautiful and make room for a different perspective.", "author": "FORGE"}
+{"text": "I can approach this moment with curiosity even when I am learning something new.", "author": "FORGE"}
+{"text": "I can take one small step toward the beauty of an ordinary day.", "author": "FORGE"}
+{"text": "A fresh perspective can support the life I want to build.", "author": "FORGE"}
+{"text": "I am allowed to change direction as I learn from my experiences.", "author": "FORGE"}
+{"text": "My ability to adapt can support both my goals and my well-being.", "author": "FORGE"}
+{"text": "I can notice something beautiful and celebrate the effort it took.", "author": "FORGE"}
+{"text": "I can approach this moment with curiosity even when progress is difficult to see.", "author": "FORGE"}
+{"text": "I can take one small step toward the friendships I am building.", "author": "FORGE"}
+{"text": "A fresh perspective can make a difference over time.", "author": "FORGE"}
+{"text": "I am allowed to change direction and make room for the people I love.", "author": "FORGE"}
+{"text": "My ability to adapt can help me connect with the world around me.", "author": "FORGE"}
+{"text": "I can notice something beautiful and take the next step when I am ready.", "author": "FORGE"}
+{"text": "I can choose a pace that respects my needs even when the path ahead feels uncertain.", "author": "FORGE"}
+{"text": "I can take one small step toward the goals that feel meaningful.", "author": "FORGE"}
+{"text": "A thoughtful boundary can be a meaningful part of my day.", "author": "FORGE"}
+{"text": "I am allowed to be proud while I pursue my goals.", "author": "FORGE"}
+{"text": "My sense of humor can grow with practice.", "author": "FORGE"}
+{"text": "I can choose one manageable task and let that be enough for this moment.", "author": "FORGE"}
+{"text": "I can choose a pace that respects my needs even when today does not go as planned.", "author": "FORGE"}
+{"text": "I can take one small step toward my own creative voice.", "author": "FORGE"}
+{"text": "A thoughtful boundary can help me find my next step.", "author": "FORGE"}
+{"text": "I am allowed to be proud without comparing my path to anyone else.", "author": "FORGE"}
+{"text": "My sense of humor has a place in the life I am building.", "author": "FORGE"}
+{"text": "I can choose one manageable task and see where that small choice leads.", "author": "FORGE"}
+{"text": "I can choose a pace that respects my needs even when I am still figuring things out.", "author": "FORGE"}
+{"text": "I can take one small step toward the moments that help me rest.", "author": "FORGE"}
+{"text": "A thoughtful boundary can open the door to growth.", "author": "FORGE"}
+{"text": "I am allowed to be proud as I build a life that fits me.", "author": "FORGE"}
+{"text": "My sense of humor is worth nurturing today.", "author": "FORGE"}
+{"text": "I can choose one manageable task and give the rest of the day room to unfold.", "author": "FORGE"}
+{"text": "I can choose a pace that respects my needs even when my confidence feels quiet.", "author": "FORGE"}
+{"text": "I can take one small step toward the possibilities ahead.", "author": "FORGE"}
+{"text": "A thoughtful boundary can make room for something good.", "author": "FORGE"}
+{"text": "I am allowed to be proud even when the outcome is uncertain.", "author": "FORGE"}
+{"text": "My sense of humor can help me meet a new challenge.", "author": "FORGE"}
+{"text": "I can choose one manageable task and practice being present.", "author": "FORGE"}
+{"text": "I can choose a pace that respects my needs even when the answer takes time to find.", "author": "FORGE"}
+{"text": "I can take one small step toward my sense of curiosity.", "author": "FORGE"}
+{"text": "A thoughtful boundary can remind me of what I value.", "author": "FORGE"}
+{"text": "I am allowed to be proud in ways that feel right for me.", "author": "FORGE"}
+{"text": "My sense of humor can make ordinary moments meaningful.", "author": "FORGE"}
+{"text": "I can choose one manageable task and remember that growth takes time.", "author": "FORGE"}
+{"text": "I can choose a pace that respects my needs even when I need to change direction.", "author": "FORGE"}
+{"text": "I can take one small step toward the life I am creating.", "author": "FORGE"}
+{"text": "A thoughtful boundary can be worth noticing and celebrating.", "author": "FORGE"}
+{"text": "I am allowed to be proud without having everything figured out.", "author": "FORGE"}
+{"text": "My sense of humor does not need to be perfect to matter.", "author": "FORGE"}
+{"text": "I can choose one manageable task and support the person I am becoming.", "author": "FORGE"}
+{"text": "I can choose a pace that respects my needs even when I cannot do everything at once.", "author": "FORGE"}
+{"text": "I can make space in my life for the people who matter to me.", "author": "FORGE"}
+{"text": "A thoughtful boundary can bring a little more light to today.", "author": "FORGE"}
+{"text": "I am allowed to be proud at a pace that respects my needs.", "author": "FORGE"}
+{"text": "My sense of humor can guide me toward a thoughtful choice.", "author": "FORGE"}
+{"text": "I can choose one manageable task and bring more care into my day.", "author": "FORGE"}
+{"text": "I can choose a pace that respects my needs even when a challenge feels unfamiliar.", "author": "FORGE"}
+{"text": "I can make space in my life for the ideas that excite me.", "author": "FORGE"}
+{"text": "A thoughtful boundary can help me move forward with care.", "author": "FORGE"}
+{"text": "I am allowed to be proud and still be a work in progress.", "author": "FORGE"}
+{"text": "My sense of humor is something I can return to.", "author": "FORGE"}
+{"text": "I can choose one manageable task and appreciate the chance to begin.", "author": "FORGE"}
+{"text": "I can choose a pace that respects my needs even when I need a moment to pause.", "author": "FORGE"}
+{"text": "I can make space in my life for the work I care about.", "author": "FORGE"}
+{"text": "A thoughtful boundary can be enough to begin again.", "author": "FORGE"}
+{"text": "I am allowed to be proud while I discover what matters most.", "author": "FORGE"}
+{"text": "My sense of humor can make room for new possibilities.", "author": "FORGE"}
+{"text": "I can choose one manageable task and make room for a different perspective.", "author": "FORGE"}
+{"text": "I can choose a pace that respects my needs even when I am learning something new.", "author": "FORGE"}
+{"text": "I can make space in my life for the things I am learning.", "author": "FORGE"}
+{"text": "A thoughtful boundary can support the life I want to build.", "author": "FORGE"}
+{"text": "I am allowed to be proud as I learn from my experiences.", "author": "FORGE"}
+{"text": "My sense of humor can support both my goals and my well-being.", "author": "FORGE"}
+{"text": "I can choose one manageable task and celebrate the effort it took.", "author": "FORGE"}
+{"text": "I can choose a pace that respects my needs even when progress is difficult to see.", "author": "FORGE"}
+{"text": "I can make space in my life for the beauty of an ordinary day.", "author": "FORGE"}
+{"text": "A thoughtful boundary can make a difference over time.", "author": "FORGE"}
+{"text": "I am allowed to be proud and make room for the people I love.", "author": "FORGE"}
+{"text": "My sense of humor can help me connect with the world around me.", "author": "FORGE"}
+{"text": "I can choose one manageable task and take the next step when I am ready.", "author": "FORGE"}
+{"text": "I can practice speaking kindly to myself even when the path ahead feels uncertain.", "author": "FORGE"}
+{"text": "I can make space in my life for the friendships I am building.", "author": "FORGE"}
+{"text": "An unexpected lesson can be a meaningful part of my day.", "author": "FORGE"}
+{"text": "I am allowed to seek support while I pursue my goals.", "author": "FORGE"}
+{"text": "My attention can grow with practice.", "author": "FORGE"}
+{"text": "I can welcome a new idea and let that be enough for this moment.", "author": "FORGE"}
+{"text": "I can practice speaking kindly to myself even when today does not go as planned.", "author": "FORGE"}
+{"text": "I can make space in my life for the goals that feel meaningful.", "author": "FORGE"}
+{"text": "An unexpected lesson can help me find my next step.", "author": "FORGE"}
+{"text": "I am allowed to seek support without comparing my path to anyone else.", "author": "FORGE"}
+{"text": "My attention has a place in the life I am building.", "author": "FORGE"}
+{"text": "I can welcome a new idea and see where that small choice leads.", "author": "FORGE"}
+{"text": "I can practice speaking kindly to myself even when I am still figuring things out.", "author": "FORGE"}
+{"text": "I can make space in my life for my own creative voice.", "author": "FORGE"}
+{"text": "An unexpected lesson can open the door to growth.", "author": "FORGE"}
+{"text": "I am allowed to seek support as I build a life that fits me.", "author": "FORGE"}
+{"text": "My attention is worth nurturing today.", "author": "FORGE"}
+{"text": "I can welcome a new idea and give the rest of the day room to unfold.", "author": "FORGE"}
+{"text": "I can practice speaking kindly to myself even when my confidence feels quiet.", "author": "FORGE"}
+{"text": "I can make space in my life for the moments that help me rest.", "author": "FORGE"}
+{"text": "An unexpected lesson can make room for something good.", "author": "FORGE"}
+{"text": "I am allowed to seek support even when the outcome is uncertain.", "author": "FORGE"}
+{"text": "My attention can help me meet a new challenge.", "author": "FORGE"}
+{"text": "I can welcome a new idea and practice being present.", "author": "FORGE"}
+{"text": "I can practice speaking kindly to myself even when the answer takes time to find.", "author": "FORGE"}
+{"text": "I can make space in my life for the possibilities ahead.", "author": "FORGE"}
+{"text": "An unexpected lesson can remind me of what I value.", "author": "FORGE"}
+{"text": "I am allowed to seek support in ways that feel right for me.", "author": "FORGE"}
+{"text": "My attention can make ordinary moments meaningful.", "author": "FORGE"}
+{"text": "I can welcome a new idea and remember that growth takes time.", "author": "FORGE"}
+{"text": "I can practice speaking kindly to myself even when I need to change direction.", "author": "FORGE"}
+{"text": "I can make space in my life for my sense of curiosity.", "author": "FORGE"}
+{"text": "An unexpected lesson can be worth noticing and celebrating.", "author": "FORGE"}
+{"text": "I am allowed to seek support without having everything figured out.", "author": "FORGE"}
+{"text": "My attention does not need to be perfect to matter.", "author": "FORGE"}
+{"text": "I can welcome a new idea and support the person I am becoming.", "author": "FORGE"}
+{"text": "I can practice speaking kindly to myself even when I cannot do everything at once.", "author": "FORGE"}
+{"text": "I can make space in my life for the life I am creating.", "author": "FORGE"}
+{"text": "An unexpected lesson can bring a little more light to today.", "author": "FORGE"}
+{"text": "I am allowed to seek support at a pace that respects my needs.", "author": "FORGE"}
+{"text": "My attention can guide me toward a thoughtful choice.", "author": "FORGE"}
+{"text": "I can welcome a new idea and bring more care into my day.", "author": "FORGE"}
+{"text": "I can practice speaking kindly to myself even when a challenge feels unfamiliar.", "author": "FORGE"}
+{"text": "I can practice patience with the people who matter to me.", "author": "FORGE"}
+{"text": "An unexpected lesson can help me move forward with care.", "author": "FORGE"}
+{"text": "I am allowed to seek support and still be a work in progress.", "author": "FORGE"}
+{"text": "My attention is something I can return to.", "author": "FORGE"}
+{"text": "I can welcome a new idea and appreciate the chance to begin.", "author": "FORGE"}
+{"text": "I can practice speaking kindly to myself even when I need a moment to pause.", "author": "FORGE"}
+{"text": "I can practice patience with the ideas that excite me.", "author": "FORGE"}
+{"text": "An unexpected lesson can be enough to begin again.", "author": "FORGE"}
+{"text": "I am allowed to seek support while I discover what matters most.", "author": "FORGE"}
+{"text": "My attention can make room for new possibilities.", "author": "FORGE"}
+{"text": "I can welcome a new idea and make room for a different perspective.", "author": "FORGE"}
+{"text": "I can practice speaking kindly to myself even when I am learning something new.", "author": "FORGE"}
+{"text": "I can practice patience with the work I care about.", "author": "FORGE"}
+{"text": "An unexpected lesson can support the life I want to build.", "author": "FORGE"}
+{"text": "I am allowed to seek support as I learn from my experiences.", "author": "FORGE"}
+{"text": "My attention can support both my goals and my well-being.", "author": "FORGE"}
+{"text": "I can welcome a new idea and celebrate the effort it took.", "author": "FORGE"}
+{"text": "I can practice speaking kindly to myself even when progress is difficult to see.", "author": "FORGE"}
+{"text": "I can practice patience with the things I am learning.", "author": "FORGE"}
+{"text": "An unexpected lesson can make a difference over time.", "author": "FORGE"}
+{"text": "I am allowed to seek support and make room for the people I love.", "author": "FORGE"}
+{"text": "My attention can help me connect with the world around me.", "author": "FORGE"}
+{"text": "I can welcome a new idea and take the next step when I am ready.", "author": "FORGE"}
+{"text": "I can notice the progress I have made even when the path ahead feels uncertain.", "author": "FORGE"}
+{"text": "I can practice patience with the beauty of an ordinary day.", "author": "FORGE"}
+{"text": "A little patience can be a meaningful part of my day.", "author": "FORGE"}
+{"text": "I am allowed to set boundaries while I pursue my goals.", "author": "FORGE"}
+{"text": "My perspective can grow with practice.", "author": "FORGE"}
+{"text": "I can step outside for fresh air and let that be enough for this moment.", "author": "FORGE"}
+{"text": "I can notice the progress I have made even when today does not go as planned.", "author": "FORGE"}
+{"text": "I can practice patience with the friendships I am building.", "author": "FORGE"}
+{"text": "A little patience can help me find my next step.", "author": "FORGE"}
+{"text": "I am allowed to set boundaries without comparing my path to anyone else.", "author": "FORGE"}
+{"text": "My perspective has a place in the life I am building.", "author": "FORGE"}
+{"text": "I can step outside for fresh air and see where that small choice leads.", "author": "FORGE"}
+{"text": "I can notice the progress I have made even when I am still figuring things out.", "author": "FORGE"}
+{"text": "I can practice patience with the goals that feel meaningful.", "author": "FORGE"}
+{"text": "A little patience can open the door to growth.", "author": "FORGE"}
+{"text": "I am allowed to set boundaries as I build a life that fits me.", "author": "FORGE"}
+{"text": "My perspective is worth nurturing today.", "author": "FORGE"}
+{"text": "I can step outside for fresh air and give the rest of the day room to unfold.", "author": "FORGE"}
+{"text": "I can notice the progress I have made even when my confidence feels quiet.", "author": "FORGE"}
+{"text": "I can practice patience with my own creative voice.", "author": "FORGE"}
+{"text": "A little patience can make room for something good.", "author": "FORGE"}
+{"text": "I am allowed to set boundaries even when the outcome is uncertain.", "author": "FORGE"}
+{"text": "My perspective can help me meet a new challenge.", "author": "FORGE"}
+{"text": "I can step outside for fresh air and practice being present.", "author": "FORGE"}
+{"text": "I can notice the progress I have made even when the answer takes time to find.", "author": "FORGE"}
+{"text": "I can practice patience with the moments that help me rest.", "author": "FORGE"}
+{"text": "A little patience can remind me of what I value.", "author": "FORGE"}
+{"text": "I am allowed to set boundaries in ways that feel right for me.", "author": "FORGE"}
+{"text": "My perspective can make ordinary moments meaningful.", "author": "FORGE"}
+{"text": "I can step outside for fresh air and remember that growth takes time.", "author": "FORGE"}
+{"text": "I can notice the progress I have made even when I need to change direction.", "author": "FORGE"}
+{"text": "I can practice patience with the possibilities ahead.", "author": "FORGE"}
+{"text": "A little patience can be worth noticing and celebrating.", "author": "FORGE"}
+{"text": "I am allowed to set boundaries without having everything figured out.", "author": "FORGE"}
+{"text": "My perspective does not need to be perfect to matter.", "author": "FORGE"}
+{"text": "I can step outside for fresh air and support the person I am becoming.", "author": "FORGE"}
+{"text": "I can notice the progress I have made even when I cannot do everything at once.", "author": "FORGE"}
+{"text": "I can practice patience with my sense of curiosity.", "author": "FORGE"}
+{"text": "A little patience can bring a little more light to today.", "author": "FORGE"}
+{"text": "I am allowed to set boundaries at a pace that respects my needs.", "author": "FORGE"}
+{"text": "My perspective can guide me toward a thoughtful choice.", "author": "FORGE"}
+{"text": "I can step outside for fresh air and bring more care into my day.", "author": "FORGE"}
+{"text": "I can notice the progress I have made even when a challenge feels unfamiliar.", "author": "FORGE"}
+{"text": "I can practice patience with the life I am creating.", "author": "FORGE"}
+{"text": "A little patience can help me move forward with care.", "author": "FORGE"}
+{"text": "I am allowed to set boundaries and still be a work in progress.", "author": "FORGE"}
+{"text": "My perspective is something I can return to.", "author": "FORGE"}
+{"text": "I can step outside for fresh air and appreciate the chance to begin.", "author": "FORGE"}
+{"text": "I can notice the progress I have made even when I need a moment to pause.", "author": "FORGE"}
+{"text": "I can celebrate the people who matter to me.", "author": "FORGE"}
+{"text": "A little patience can be enough to begin again.", "author": "FORGE"}
+{"text": "I am allowed to set boundaries while I discover what matters most.", "author": "FORGE"}
+{"text": "My perspective can make room for new possibilities.", "author": "FORGE"}
+{"text": "I can step outside for fresh air and make room for a different perspective.", "author": "FORGE"}
+{"text": "I can notice the progress I have made even when I am learning something new.", "author": "FORGE"}
+{"text": "I can celebrate the ideas that excite me.", "author": "FORGE"}
+{"text": "A little patience can support the life I want to build.", "author": "FORGE"}
+{"text": "I am allowed to set boundaries as I learn from my experiences.", "author": "FORGE"}
+{"text": "My perspective can support both my goals and my well-being.", "author": "FORGE"}
+{"text": "I can step outside for fresh air and celebrate the effort it took.", "author": "FORGE"}
+{"text": "I can notice the progress I have made even when progress is difficult to see.", "author": "FORGE"}
+{"text": "I can celebrate the work I care about.", "author": "FORGE"}
+{"text": "A little patience can make a difference over time.", "author": "FORGE"}
+{"text": "I am allowed to set boundaries and make room for the people I love.", "author": "FORGE"}
+{"text": "My perspective can help me connect with the world around me.", "author": "FORGE"}
+{"text": "I can step outside for fresh air and take the next step when I am ready.", "author": "FORGE"}
+{"text": "I can be honest about what I need even when the path ahead feels uncertain.", "author": "FORGE"}
+{"text": "I can celebrate the things I am learning.", "author": "FORGE"}
+{"text": "A simple act of care can be a meaningful part of my day.", "author": "FORGE"}
+{"text": "I am allowed to make mistakes while I pursue my goals.", "author": "FORGE"}
+{"text": "My capacity for care can grow with practice.", "author": "FORGE"}
+{"text": "I can express what I am feeling and let that be enough for this moment.", "author": "FORGE"}
+{"text": "I can be honest about what I need even when today does not go as planned.", "author": "FORGE"}
+{"text": "I can celebrate the beauty of an ordinary day.", "author": "FORGE"}
+{"text": "A simple act of care can help me find my next step.", "author": "FORGE"}
+{"text": "I am allowed to make mistakes without comparing my path to anyone else.", "author": "FORGE"}
+{"text": "My capacity for care has a place in the life I am building.", "author": "FORGE"}
+{"text": "I can express what I am feeling and see where that small choice leads.", "author": "FORGE"}
+{"text": "I can be honest about what I need even when I am still figuring things out.", "author": "FORGE"}
+{"text": "I can celebrate the friendships I am building.", "author": "FORGE"}
+{"text": "A simple act of care can open the door to growth.", "author": "FORGE"}
+{"text": "I am allowed to make mistakes as I build a life that fits me.", "author": "FORGE"}
+{"text": "My capacity for care is worth nurturing today.", "author": "FORGE"}
+{"text": "I can express what I am feeling and give the rest of the day room to unfold.", "author": "FORGE"}
+{"text": "I can be honest about what I need even when my confidence feels quiet.", "author": "FORGE"}
+{"text": "I can celebrate the goals that feel meaningful.", "author": "FORGE"}
+{"text": "A simple act of care can make room for something good.", "author": "FORGE"}
+{"text": "I am allowed to make mistakes even when the outcome is uncertain.", "author": "FORGE"}
+{"text": "My capacity for care can help me meet a new challenge.", "author": "FORGE"}
+{"text": "I can express what I am feeling and practice being present.", "author": "FORGE"}
+{"text": "I can be honest about what I need even when the answer takes time to find.", "author": "FORGE"}
+{"text": "I can celebrate my own creative voice.", "author": "FORGE"}
+{"text": "A simple act of care can remind me of what I value.", "author": "FORGE"}
+{"text": "I am allowed to make mistakes in ways that feel right for me.", "author": "FORGE"}
+{"text": "My capacity for care can make ordinary moments meaningful.", "author": "FORGE"}
+{"text": "I can express what I am feeling and remember that growth takes time.", "author": "FORGE"}
+{"text": "I can be honest about what I need even when I need to change direction.", "author": "FORGE"}
+{"text": "I can celebrate the moments that help me rest.", "author": "FORGE"}
+{"text": "A simple act of care can be worth noticing and celebrating.", "author": "FORGE"}
+{"text": "I am allowed to make mistakes without having everything figured out.", "author": "FORGE"}
+{"text": "My capacity for care does not need to be perfect to matter.", "author": "FORGE"}
+{"text": "I can express what I am feeling and support the person I am becoming.", "author": "FORGE"}
+{"text": "I can be honest about what I need even when I cannot do everything at once.", "author": "FORGE"}
+{"text": "I can celebrate the possibilities ahead.", "author": "FORGE"}
+{"text": "A simple act of care can bring a little more light to today.", "author": "FORGE"}
+{"text": "I am allowed to make mistakes at a pace that respects my needs.", "author": "FORGE"}
+{"text": "My capacity for care can guide me toward a thoughtful choice.", "author": "FORGE"}
+{"text": "I can express what I am feeling and bring more care into my day.", "author": "FORGE"}
+{"text": "I can be honest about what I need even when a challenge feels unfamiliar.", "author": "FORGE"}
+{"text": "I can celebrate my sense of curiosity.", "author": "FORGE"}
+{"text": "A simple act of care can help me move forward with care.", "author": "FORGE"}
+{"text": "I am allowed to make mistakes and still be a work in progress.", "author": "FORGE"}
+{"text": "My capacity for care is something I can return to.", "author": "FORGE"}
+{"text": "I can express what I am feeling and appreciate the chance to begin.", "author": "FORGE"}
+{"text": "I can be honest about what I need even when I need a moment to pause.", "author": "FORGE"}
+{"text": "I can celebrate the life I am creating.", "author": "FORGE"}
+{"text": "A simple act of care can be enough to begin again.", "author": "FORGE"}
+{"text": "I am allowed to make mistakes while I discover what matters most.", "author": "FORGE"}
+{"text": "My capacity for care can make room for new possibilities.", "author": "FORGE"}
+{"text": "I can express what I am feeling and make room for a different perspective.", "author": "FORGE"}
+{"text": "I can be honest about what I need even when I am learning something new.", "author": "FORGE"}
+{"text": "I can choose to nurture the people who matter to me.", "author": "FORGE"}
+{"text": "A simple act of care can support the life I want to build.", "author": "FORGE"}
+{"text": "I am allowed to make mistakes as I learn from my experiences.", "author": "FORGE"}
+{"text": "My capacity for care can support both my goals and my well-being.", "author": "FORGE"}
+{"text": "I can express what I am feeling and celebrate the effort it took.", "author": "FORGE"}
+{"text": "I can be honest about what I need even when progress is difficult to see.", "author": "FORGE"}
+{"text": "I can choose to nurture the ideas that excite me.", "author": "FORGE"}
+{"text": "A simple act of care can make a difference over time.", "author": "FORGE"}
+{"text": "I am allowed to make mistakes and make room for the people I love.", "author": "FORGE"}
+{"text": "My capacity for care can help me connect with the world around me.", "author": "FORGE"}
+{"text": "I can express what I am feeling and take the next step when I am ready.", "author": "FORGE"}
+{"text": "I can keep exploring new possibilities even when the path ahead feels uncertain.", "author": "FORGE"}
+{"text": "I can choose to nurture the work I care about.", "author": "FORGE"}
+{"text": "A new idea can be a meaningful part of my day.", "author": "FORGE"}
+{"text": "I am allowed to celebrate while I pursue my goals.", "author": "FORGE"}
+{"text": "My courage to begin can grow with practice.", "author": "FORGE"}
+{"text": "I can pause and check in with myself and let that be enough for this moment.", "author": "FORGE"}
+{"text": "I can keep exploring new possibilities even when today does not go as planned.", "author": "FORGE"}
+{"text": "I can choose to nurture the things I am learning.", "author": "FORGE"}
+{"text": "A new idea can help me find my next step.", "author": "FORGE"}
+{"text": "I am allowed to celebrate without comparing my path to anyone else.", "author": "FORGE"}
+{"text": "My courage to begin has a place in the life I am building.", "author": "FORGE"}
+{"text": "I can pause and check in with myself and see where that small choice leads.", "author": "FORGE"}
+{"text": "I can keep exploring new possibilities even when I am still figuring things out.", "author": "FORGE"}
+{"text": "I can choose to nurture the beauty of an ordinary day.", "author": "FORGE"}
+{"text": "A new idea can open the door to growth.", "author": "FORGE"}
+{"text": "I am allowed to celebrate as I build a life that fits me.", "author": "FORGE"}
+{"text": "My courage to begin is worth nurturing today.", "author": "FORGE"}
+{"text": "I can pause and check in with myself and give the rest of the day room to unfold.", "author": "FORGE"}
+{"text": "I can keep exploring new possibilities even when my confidence feels quiet.", "author": "FORGE"}
+{"text": "I can choose to nurture the friendships I am building.", "author": "FORGE"}
+{"text": "A new idea can make room for something good.", "author": "FORGE"}
+{"text": "I am allowed to celebrate even when the outcome is uncertain.", "author": "FORGE"}
+{"text": "My courage to begin can help me meet a new challenge.", "author": "FORGE"}
+{"text": "I can pause and check in with myself and practice being present.", "author": "FORGE"}
+{"text": "I can keep exploring new possibilities even when the answer takes time to find.", "author": "FORGE"}
+{"text": "I can choose to nurture the goals that feel meaningful.", "author": "FORGE"}
+{"text": "A new idea can remind me of what I value.", "author": "FORGE"}
+{"text": "I am allowed to celebrate in ways that feel right for me.", "author": "FORGE"}
+{"text": "My courage to begin can make ordinary moments meaningful.", "author": "FORGE"}
+{"text": "I can pause and check in with myself and remember that growth takes time.", "author": "FORGE"}
+{"text": "I can keep exploring new possibilities even when I need to change direction.", "author": "FORGE"}
+{"text": "I can choose to nurture my own creative voice.", "author": "FORGE"}
+{"text": "A new idea can be worth noticing and celebrating.", "author": "FORGE"}
+{"text": "I am allowed to celebrate without having everything figured out.", "author": "FORGE"}
+{"text": "My courage to begin does not need to be perfect to matter.", "author": "FORGE"}
+{"text": "I can pause and check in with myself and support the person I am becoming.", "author": "FORGE"}
+{"text": "I can keep exploring new possibilities even when I cannot do everything at once.", "author": "FORGE"}
+{"text": "I can choose to nurture the moments that help me rest.", "author": "FORGE"}
+{"text": "A new idea can bring a little more light to today.", "author": "FORGE"}
+{"text": "I am allowed to celebrate at a pace that respects my needs.", "author": "FORGE"}
+{"text": "My courage to begin can guide me toward a thoughtful choice.", "author": "FORGE"}
+{"text": "I can pause and check in with myself and bring more care into my day.", "author": "FORGE"}
+{"text": "I can keep exploring new possibilities even when a challenge feels unfamiliar.", "author": "FORGE"}
+{"text": "I can choose to nurture the possibilities ahead.", "author": "FORGE"}
+{"text": "A new idea can help me move forward with care.", "author": "FORGE"}
+{"text": "I am allowed to celebrate and still be a work in progress.", "author": "FORGE"}
+{"text": "My courage to begin is something I can return to.", "author": "FORGE"}
+{"text": "I can pause and check in with myself and appreciate the chance to begin.", "author": "FORGE"}
+{"text": "I can keep exploring new possibilities even when I need a moment to pause.", "author": "FORGE"}
+{"text": "I can choose to nurture my sense of curiosity.", "author": "FORGE"}
+{"text": "A new idea can be enough to begin again.", "author": "FORGE"}
+{"text": "I am allowed to celebrate while I discover what matters most.", "author": "FORGE"}
+{"text": "My courage to begin can make room for new possibilities.", "author": "FORGE"}
+{"text": "I can pause and check in with myself and make room for a different perspective.", "author": "FORGE"}
+{"text": "I can keep exploring new possibilities even when I am learning something new.", "author": "FORGE"}
+{"text": "I can choose to nurture the life I am creating.", "author": "FORGE"}
+{"text": "A new idea can support the life I want to build.", "author": "FORGE"}
+{"text": "I am allowed to celebrate as I learn from my experiences.", "author": "FORGE"}
+{"text": "My courage to begin can support both my goals and my well-being.", "author": "FORGE"}
+{"text": "I can pause and check in with myself and celebrate the effort it took.", "author": "FORGE"}
+{"text": "I can keep exploring new possibilities even when progress is difficult to see.", "author": "FORGE"}
+{"text": "I can reconnect with the people who matter to me.", "author": "FORGE"}
+{"text": "A new idea can make a difference over time.", "author": "FORGE"}
+{"text": "I am allowed to celebrate and make room for the people I love.", "author": "FORGE"}
+{"text": "My courage to begin can help me connect with the world around me.", "author": "FORGE"}
+{"text": "I can pause and check in with myself and take the next step when I am ready.", "author": "FORGE"}
+{"text": "I can find courage in small actions even when the path ahead feels uncertain.", "author": "FORGE"}
+{"text": "I can reconnect with the ideas that excite me.", "author": "FORGE"}
+{"text": "A bit of flexibility can be a meaningful part of my day.", "author": "FORGE"}
+{"text": "I am allowed to explore while I pursue my goals.", "author": "FORGE"}
+{"text": "My openness to change can grow with practice.", "author": "FORGE"}
+{"text": "I can be generous with encouragement and let that be enough for this moment.", "author": "FORGE"}
+{"text": "I can find courage in small actions even when today does not go as planned.", "author": "FORGE"}
+{"text": "I can reconnect with the work I care about.", "author": "FORGE"}
+{"text": "A bit of flexibility can help me find my next step.", "author": "FORGE"}
+{"text": "I am allowed to explore without comparing my path to anyone else.", "author": "FORGE"}
+{"text": "My openness to change has a place in the life I am building.", "author": "FORGE"}
+{"text": "I can be generous with encouragement and see where that small choice leads.", "author": "FORGE"}
+{"text": "I can find courage in small actions even when I am still figuring things out.", "author": "FORGE"}
+{"text": "I can reconnect with the things I am learning.", "author": "FORGE"}
+{"text": "A bit of flexibility can open the door to growth.", "author": "FORGE"}
+{"text": "I am allowed to explore as I build a life that fits me.", "author": "FORGE"}
+{"text": "My openness to change is worth nurturing today.", "author": "FORGE"}
+{"text": "I can be generous with encouragement and give the rest of the day room to unfold.", "author": "FORGE"}
+{"text": "I can find courage in small actions even when my confidence feels quiet.", "author": "FORGE"}
+{"text": "I can reconnect with the beauty of an ordinary day.", "author": "FORGE"}
+{"text": "A bit of flexibility can make room for something good.", "author": "FORGE"}
+{"text": "I am allowed to explore even when the outcome is uncertain.", "author": "FORGE"}
+{"text": "My openness to change can help me meet a new challenge.", "author": "FORGE"}
+{"text": "I can be generous with encouragement and practice being present.", "author": "FORGE"}
+{"text": "I can find courage in small actions even when the answer takes time to find.", "author": "FORGE"}
+{"text": "I can reconnect with the friendships I am building.", "author": "FORGE"}
+{"text": "A bit of flexibility can remind me of what I value.", "author": "FORGE"}
+{"text": "I am allowed to explore in ways that feel right for me.", "author": "FORGE"}
+{"text": "My openness to change can make ordinary moments meaningful.", "author": "FORGE"}
+{"text": "I can be generous with encouragement and remember that growth takes time.", "author": "FORGE"}
+{"text": "I can find courage in small actions even when I need to change direction.", "author": "FORGE"}
+{"text": "I can reconnect with the goals that feel meaningful.", "author": "FORGE"}
+{"text": "A bit of flexibility can be worth noticing and celebrating.", "author": "FORGE"}
+{"text": "I am allowed to explore without having everything figured out.", "author": "FORGE"}
+{"text": "My openness to change does not need to be perfect to matter.", "author": "FORGE"}
+{"text": "I can be generous with encouragement and support the person I am becoming.", "author": "FORGE"}
+{"text": "I can find courage in small actions even when I cannot do everything at once.", "author": "FORGE"}
+{"text": "I can reconnect with my own creative voice.", "author": "FORGE"}
+{"text": "A bit of flexibility can bring a little more light to today.", "author": "FORGE"}
+{"text": "I am allowed to explore at a pace that respects my needs.", "author": "FORGE"}
+{"text": "My openness to change can guide me toward a thoughtful choice.", "author": "FORGE"}
+{"text": "I can be generous with encouragement and bring more care into my day.", "author": "FORGE"}
+{"text": "I can find courage in small actions even when a challenge feels unfamiliar.", "author": "FORGE"}
+{"text": "I can reconnect with the moments that help me rest.", "author": "FORGE"}
+{"text": "A bit of flexibility can help me move forward with care.", "author": "FORGE"}
+{"text": "I am allowed to explore and still be a work in progress.", "author": "FORGE"}
+{"text": "My openness to change is something I can return to.", "author": "FORGE"}
+{"text": "I can be generous with encouragement and appreciate the chance to begin.", "author": "FORGE"}
+{"text": "I can find courage in small actions even when I need a moment to pause.", "author": "FORGE"}
+{"text": "I can reconnect with the possibilities ahead.", "author": "FORGE"}
+{"text": "A bit of flexibility can be enough to begin again.", "author": "FORGE"}
+{"text": "I am allowed to explore while I discover what matters most.", "author": "FORGE"}
+{"text": "My openness to change can make room for new possibilities.", "author": "FORGE"}
+{"text": "I can be generous with encouragement and make room for a different perspective.", "author": "FORGE"}
+{"text": "I can find courage in small actions even when I am learning something new.", "author": "FORGE"}
+{"text": "I can reconnect with my sense of curiosity.", "author": "FORGE"}
+{"text": "A bit of flexibility can support the life I want to build.", "author": "FORGE"}
+{"text": "I am allowed to explore as I learn from my experiences.", "author": "FORGE"}
+{"text": "My openness to change can support both my goals and my well-being.", "author": "FORGE"}
+{"text": "I can be generous with encouragement and celebrate the effort it took.", "author": "FORGE"}
+{"text": "I can find courage in small actions even when progress is difficult to see.", "author": "FORGE"}
+{"text": "I can reconnect with the life I am creating.", "author": "FORGE"}
+{"text": "A bit of flexibility can make a difference over time.", "author": "FORGE"}
+{"text": "I am allowed to explore and make room for the people I love.", "author": "FORGE"}
+{"text": "My openness to change can help me connect with the world around me.", "author": "FORGE"}
+{"text": "I can be generous with encouragement and take the next step when I am ready.", "author": "FORGE"}
+{"text": "I can let myself enjoy the process even when the path ahead feels uncertain.", "author": "FORGE"}
+{"text": "I can learn to trust the people who matter to me.", "author": "FORGE"}
+{"text": "An open mind can be a meaningful part of my day.", "author": "FORGE"}
+{"text": "I am allowed to be hopeful while I pursue my goals.", "author": "FORGE"}
+{"text": "My effort can grow with practice.", "author": "FORGE"}
+{"text": "I can make a little time to reflect and let that be enough for this moment.", "author": "FORGE"}
+{"text": "I can let myself enjoy the process even when today does not go as planned.", "author": "FORGE"}
+{"text": "I can learn to trust the ideas that excite me.", "author": "FORGE"}
+{"text": "An open mind can help me find my next step.", "author": "FORGE"}
+{"text": "I am allowed to be hopeful without comparing my path to anyone else.", "author": "FORGE"}
+{"text": "My effort has a place in the life I am building.", "author": "FORGE"}
+{"text": "I can make a little time to reflect and see where that small choice leads.", "author": "FORGE"}
+{"text": "I can let myself enjoy the process even when I am still figuring things out.", "author": "FORGE"}
+{"text": "I can learn to trust the work I care about.", "author": "FORGE"}
+{"text": "An open mind can open the door to growth.", "author": "FORGE"}
+{"text": "I am allowed to be hopeful as I build a life that fits me.", "author": "FORGE"}
+{"text": "My effort is worth nurturing today.", "author": "FORGE"}
+{"text": "I can make a little time to reflect and give the rest of the day room to unfold.", "author": "FORGE"}
+{"text": "I can let myself enjoy the process even when my confidence feels quiet.", "author": "FORGE"}
+{"text": "I can learn to trust the things I am learning.", "author": "FORGE"}
+{"text": "An open mind can make room for something good.", "author": "FORGE"}
+{"text": "I am allowed to be hopeful even when the outcome is uncertain.", "author": "FORGE"}
+{"text": "My effort can help me meet a new challenge.", "author": "FORGE"}
+{"text": "I can make a little time to reflect and practice being present.", "author": "FORGE"}
+{"text": "I can let myself enjoy the process even when the answer takes time to find.", "author": "FORGE"}
+{"text": "I can learn to trust the beauty of an ordinary day.", "author": "FORGE"}
+{"text": "An open mind can remind me of what I value.", "author": "FORGE"}
+{"text": "I am allowed to be hopeful in ways that feel right for me.", "author": "FORGE"}
+{"text": "My effort can make ordinary moments meaningful.", "author": "FORGE"}
+{"text": "I can make a little time to reflect and remember that growth takes time.", "author": "FORGE"}
+{"text": "I can let myself enjoy the process even when I need to change direction.", "author": "FORGE"}
+{"text": "I can learn to trust the friendships I am building.", "author": "FORGE"}
+{"text": "An open mind can be worth noticing and celebrating.", "author": "FORGE"}
+{"text": "I am allowed to be hopeful without having everything figured out.", "author": "FORGE"}
+{"text": "My effort does not need to be perfect to matter.", "author": "FORGE"}
+{"text": "I can make a little time to reflect and support the person I am becoming.", "author": "FORGE"}
+{"text": "I can let myself enjoy the process even when I cannot do everything at once.", "author": "FORGE"}
+{"text": "I can learn to trust the goals that feel meaningful.", "author": "FORGE"}
+{"text": "An open mind can bring a little more light to today.", "author": "FORGE"}
+{"text": "I am allowed to be hopeful at a pace that respects my needs.", "author": "FORGE"}
+{"text": "My effort can guide me toward a thoughtful choice.", "author": "FORGE"}
+{"text": "I can make a little time to reflect and bring more care into my day.", "author": "FORGE"}
+{"text": "I can let myself enjoy the process even when a challenge feels unfamiliar.", "author": "FORGE"}
+{"text": "I can learn to trust my own creative voice.", "author": "FORGE"}
+{"text": "An open mind can help me move forward with care.", "author": "FORGE"}
+{"text": "I am allowed to be hopeful and still be a work in progress.", "author": "FORGE"}
+{"text": "My effort is something I can return to.", "author": "FORGE"}
+{"text": "I can make a little time to reflect and appreciate the chance to begin.", "author": "FORGE"}
+{"text": "I can let myself enjoy the process even when I need a moment to pause.", "author": "FORGE"}
+{"text": "I can learn to trust the moments that help me rest.", "author": "FORGE"}
+{"text": "An open mind can be enough to begin again.", "author": "FORGE"}
+{"text": "I am allowed to be hopeful while I discover what matters most.", "author": "FORGE"}
+{"text": "My effort can make room for new possibilities.", "author": "FORGE"}
+{"text": "I can make a little time to reflect and make room for a different perspective.", "author": "FORGE"}
+{"text": "I can let myself enjoy the process even when I am learning something new.", "author": "FORGE"}
+{"text": "I can learn to trust the possibilities ahead.", "author": "FORGE"}
+{"text": "An open mind can support the life I want to build.", "author": "FORGE"}
+{"text": "I am allowed to be hopeful as I learn from my experiences.", "author": "FORGE"}
+{"text": "My effort can support both my goals and my well-being.", "author": "FORGE"}
+{"text": "I can make a little time to reflect and celebrate the effort it took.", "author": "FORGE"}
+{"text": "I can let myself enjoy the process even when progress is difficult to see.", "author": "FORGE"}
+{"text": "I can learn to trust my sense of curiosity.", "author": "FORGE"}
+{"text": "An open mind can make a difference over time.", "author": "FORGE"}
+{"text": "I am allowed to be hopeful and make room for the people I love.", "author": "FORGE"}
+{"text": "My effort can help me connect with the world around me.", "author": "FORGE"}
+{"text": "I can make a little time to reflect and take the next step when I am ready.", "author": "FORGE"}
+{"text": "I can make a little room for joy even when the path ahead feels uncertain.", "author": "FORGE"}
+{"text": "I can learn to trust the life I am creating.", "author": "FORGE"}
+{"text": "A meaningful connection can be a meaningful part of my day.", "author": "FORGE"}
+{"text": "I am allowed to grow while I pursue my goals.", "author": "FORGE"}
+{"text": "My imagination can grow with practice.", "author": "FORGE"}
+{"text": "I can make space for what matters and let that be enough for this moment.", "author": "FORGE"}
+{"text": "I can make a little room for joy even when today does not go as planned.", "author": "FORGE"}
+{"text": "I can appreciate the people who matter to me.", "author": "FORGE"}
+{"text": "A meaningful connection can help me find my next step.", "author": "FORGE"}
+{"text": "I am allowed to grow without comparing my path to anyone else.", "author": "FORGE"}
+{"text": "My imagination has a place in the life I am building.", "author": "FORGE"}
+{"text": "I can make space for what matters and see where that small choice leads.", "author": "FORGE"}
+{"text": "I can make a little room for joy even when I am still figuring things out.", "author": "FORGE"}
+{"text": "I can appreciate the ideas that excite me.", "author": "FORGE"}
+{"text": "What is now proved was once only imagined.", "author": "William Blake", "source": "https://www.gutenberg.org/files/45315/old/45315-h/45315-h.htm"}
+{"text": "I took the one less traveled by, And that has made all the difference.", "author": "Robert Frost", "source": "https://www.gutenberg.org/files/29345/29345-h/29345-h.htm"}
+{"text": "For Hope is what the world is living on!", "author": "Henry Reed Conant", "source": "https://www.gutenberg.org/files/51904/51904-h/51904-h.htm"}
+{"text": "New hope, new courage, each new day", "author": "Wilhelmina Stitch", "source": "https://www.gutenberg.org/files/75156/75156-h/75156-h.htm"}

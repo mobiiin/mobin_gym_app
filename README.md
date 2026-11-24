@@ -22,7 +22,7 @@ Screenshots show an empty demonstration state; your own entries appear after you
 - **Exercise library:** Browse 876 exercises from Free Exercise DB plus additional cardio activities and your own custom exercises. Filter by body region, muscle, or equipment. Exercise reference photos require an internet connection.
 - **Analysis:** Inspect training history by assigned primary muscle, including set counts and weighted exercise trends. These describe logged training, not measured muscle growth.
 - **Fuel and goals:** Log food and macros manually. The optional calorie and macro planner estimates a starting target using your profile, activity level, weight goal, and preferences; review the result before applying it.
-- **Inspiration:** The local [quote bank](quotes.txt) mixes original FORGE affirmations with attributed quotations and source links. The refresh button chooses another message.
+- **Inspiration:** The local [quote bank](quotes.txt) contains 1,000 entries: 982 original FORGE affirmations and 18 attributed quotations with source links. Many of the newer affirmations are generated from combinations of original phrases; they are not attributed quotations from the internet. The refresh button chooses another message.
 
 ## Install on iPhone
 
@@ -38,17 +38,21 @@ Sharing is optional: the Today button shows a preview and lets you select what t
 
 ## Development
 
-The React migration is **incremental**. React owns the Today screen using small components; the rest of the application still runs on the existing JavaScript implementation. The shared storage format and existing event handlers are retained so existing data continues to work. This is a static app with no build step or server requirement.
+The React migration is **incremental**. React owns the navigation, Today, Fuel, and Training overview using small components; the routine builder, exercise library, analysis, history, settings, and dialogs still run on the existing JavaScript implementation. The shared storage format and existing event handlers are retained so existing data continues to work. This is a static app with no build step or server requirement.
 
 ```text
 index.html                 App shell and script loading order
 src/components/today.js    React Today screen and reusable UI components
+src/components/fuel.js     React food history screen
+src/components/training-overview.js  React training overview and tabs
+src/components/navigation.js         React bottom navigation
 src/legacy/core.js         Existing storage, navigation, and entry handling
 src/legacy/workout.js      Workout logging and initial plan
 src/legacy/training.js     Training views, analysis, and cardio
 src/legacy/routine.js      Routine editor
 src/legacy/library.js      Exercise filtering and reference photos
-src/legacy/nutrition.js    Affirmations, nutrition planner, and render bridge
+src/legacy/nutrition-v14.js Affirmations, nutrition planner, and React bridge
+src/legacy/nutrition.js     Previous bridge retained for cached older app shells
 src/legacy/sharing.js      Share preview, zoom handling, and startup
 src/styles.css             Shared app styles
 vendor/                    Locally hosted React 18.2.0 and React DOM (MIT)
