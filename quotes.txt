@@ -1,0 +1,126 @@
+# One JSON object per line. Add text, author, and optional source (https URL).
+# FORGE entries are original affirmations; other entries are sourced quotations.
+{"text": "I can make progress at a pace that works for me.", "author": "FORGE"}
+{"text": "Every time I show up, I strengthen a promise to myself.", "author": "FORGE"}
+{"text": "I am building habits that support the life I want.", "author": "FORGE"}
+{"text": "My effort matters, even when progress feels quiet.", "author": "FORGE"}
+{"text": "I can begin again whenever I need to.", "author": "FORGE"}
+{"text": "I am learning to trust the work I put in.", "author": "FORGE"}
+{"text": "Consistency is something I practice, not something I have to perfect.", "author": "FORGE"}
+{"text": "I deserve care on rest days as much as training days.", "author": "FORGE"}
+{"text": "I can be ambitious and patient with myself.", "author": "FORGE"}
+{"text": "My worth is not a number on a scale.", "author": "FORGE"}
+{"text": "I am allowed to grow at my own pace.", "author": "FORGE"}
+{"text": "I can choose one helpful action today.", "author": "FORGE"}
+{"text": "I am stronger than the doubts that visit me.", "author": "FORGE"}
+{"text": "Each small choice is a chance to support myself.", "author": "FORGE"}
+{"text": "I can listen to my body and still pursue my goals.", "author": "FORGE"}
+{"text": "What I practice today can become my strength tomorrow.", "author": "FORGE"}
+{"text": "I am capable of learning from every workout.", "author": "FORGE"}
+{"text": "I do not need a perfect day to make progress.", "author": "FORGE"}
+{"text": "My goals are worth pursuing with kindness and patience.", "author": "FORGE"}
+{"text": "I can celebrate effort as well as outcomes.", "author": "FORGE"}
+{"text": "I am building a relationship with movement that lasts.", "author": "FORGE"}
+{"text": "I have permission to rest, recover, and return.", "author": "FORGE"}
+{"text": "One missed day does not erase my progress.", "author": "FORGE"}
+{"text": "I can adjust my plan and keep moving forward.", "author": "FORGE"}
+{"text": "My body deserves respect at every stage.", "author": "FORGE"}
+{"text": "I am becoming more resilient through steady practice.", "author": "FORGE"}
+{"text": "I can focus on what is within my control today.", "author": "FORGE"}
+{"text": "Progress can be quiet and still be meaningful.", "author": "FORGE"}
+{"text": "I choose to speak to myself like someone I care about.", "author": "FORGE"}
+{"text": "I can meet a challenge without judging myself.", "author": "FORGE"}
+{"text": "My health is a journey, not a race.", "author": "FORGE"}
+{"text": "I am proud of the effort it takes to begin.", "author": "FORGE"}
+{"text": "I can build strength one session at a time.", "author": "FORGE"}
+{"text": "I trust myself to make thoughtful choices.", "author": "FORGE"}
+{"text": "I can adapt when life changes my plans.", "author": "FORGE"}
+{"text": "My commitment is more important than a perfect streak.", "author": "FORGE"}
+{"text": "I am allowed to enjoy the process of getting stronger.", "author": "FORGE"}
+{"text": "I can pursue my goals while respecting my limits.", "author": "FORGE"}
+{"text": "Every rep is an opportunity to practice patience.", "author": "FORGE"}
+{"text": "I bring curiosity and care to my training.", "author": "FORGE"}
+{"text": "I am more than my performance on any one day.", "author": "FORGE"}
+{"text": "I can acknowledge how far I have come.", "author": "FORGE"}
+{"text": "I am capable of doing hard things and asking for support.", "author": "FORGE"}
+{"text": "I choose progress that is sustainable for me.", "author": "FORGE"}
+{"text": "My future is shaped by the habits I practice today.", "author": "FORGE"}
+{"text": "I can take the next step without knowing every step.", "author": "FORGE"}
+{"text": "I am worth the time I invest in my well-being.", "author": "FORGE"}
+{"text": "It is okay to slow down and keep going.", "author": "FORGE"}
+{"text": "I can make room for strength, recovery, and joy.", "author": "FORGE"}
+{"text": "I can treat a setback as information, not failure.", "author": "FORGE"}
+{"text": "I am allowed to choose a goal that feels right for me.", "author": "FORGE"}
+{"text": "I can find momentum in small beginnings.", "author": "FORGE"}
+{"text": "What matters is returning to the things I value.", "author": "FORGE"}
+{"text": "I can give myself the same encouragement I give others.", "author": "FORGE"}
+{"text": "My effort today is enough to build on tomorrow.", "author": "FORGE"}
+{"text": "I am becoming someone who keeps showing up for myself.", "author": "FORGE"}
+{"text": "I can make space for both discipline and flexibility.", "author": "FORGE"}
+{"text": "My progress belongs to me; I do not need to compare it.", "author": "FORGE"}
+{"text": "I am learning, adapting, and getting stronger.", "author": "FORGE"}
+{"text": "I can be proud of myself while still working toward more.", "author": "FORGE"}
+{"text": "I can make room for curiosity in my life.", "author": "FORGE"}
+{"text": "I am allowed to change my mind as I learn.", "author": "FORGE"}
+{"text": "My voice and my ideas deserve space.", "author": "FORGE"}
+{"text": "I can create a life that feels meaningful to me.", "author": "FORGE"}
+{"text": "I can take a breath before choosing my next step.", "author": "FORGE"}
+{"text": "I deserve relationships built on care and respect.", "author": "FORGE"}
+{"text": "A new beginning can be small and still be real.", "author": "FORGE"}
+{"text": "I can ask for help and remain capable.", "author": "FORGE"}
+{"text": "I am learning to trust my own perspective.", "author": "FORGE"}
+{"text": "There is room in my life for wonder and discovery.", "author": "FORGE"}
+{"text": "My creativity grows when I give it room to play.", "author": "FORGE"}
+{"text": "I can be proud of my progress without rushing the future.", "author": "FORGE"}
+{"text": "I can protect my peace and still care deeply.", "author": "FORGE"}
+{"text": "I am allowed to celebrate the person I am becoming.", "author": "FORGE"}
+{"text": "I can build meaningful connections one conversation at a time.", "author": "FORGE"}
+{"text": "Rest is a worthy part of a full life.", "author": "FORGE"}
+{"text": "I can choose curiosity over comparison.", "author": "FORGE"}
+{"text": "My mistakes can teach me without defining me.", "author": "FORGE"}
+{"text": "I have something valuable to contribute.", "author": "FORGE"}
+{"text": "It is okay to take life one decision at a time.", "author": "FORGE"}
+{"text": "I can make space for joy without earning it first.", "author": "FORGE"}
+{"text": "I can be brave and uncertain at the same time.", "author": "FORGE"}
+{"text": "I deserve patience while I figure things out.", "author": "FORGE"}
+{"text": "I can let go of what no longer serves me.", "author": "FORGE"}
+{"text": "I am allowed to be a work in progress.", "author": "FORGE"}
+{"text": "My imagination is worth exploring.", "author": "FORGE"}
+{"text": "I can notice the good without ignoring the hard.", "author": "FORGE"}
+{"text": "I can learn something new at any age.", "author": "FORGE"}
+{"text": "I can set boundaries with kindness and clarity.", "author": "FORGE"}
+{"text": "My path does not need to look like anyone else’s.", "author": "FORGE"}
+{"text": "I can reconnect with what matters to me.", "author": "FORGE"}
+{"text": "I am worthy of kindness on ordinary days.", "author": "FORGE"}
+{"text": "I can begin with the resources I have.", "author": "FORGE"}
+{"text": "A thoughtful pause can be a powerful choice.", "author": "FORGE"}
+{"text": "I can enjoy the journey as well as the destination.", "author": "FORGE"}
+{"text": "I have permission to make time for the people I love.", "author": "FORGE"}
+{"text": "I can be open to unexpected possibilities.", "author": "FORGE"}
+{"text": "My questions are part of how I grow.", "author": "FORGE"}
+{"text": "I can make a difference in someone’s day.", "author": "FORGE"}
+{"text": "I am allowed to define success for myself.", "author": "FORGE"}
+{"text": "I can make space for both ambition and contentment.", "author": "FORGE"}
+{"text": "Small acts of care can create meaningful change.", "author": "FORGE"}
+{"text": "I can make mistakes and still trust myself.", "author": "FORGE"}
+{"text": "I can choose to keep learning.", "author": "FORGE"}
+{"text": "I can bring warmth to the places I enter.", "author": "FORGE"}
+{"text": "The next chapter does not need to be perfectly planned.", "author": "FORGE"}
+{"text": "I can find strength in connection.", "author": "FORGE"}
+{"text": "I can make today a little kinder.", "author": "FORGE"}
+{"text": "I have room to grow and reasons to be grateful.", "author": "FORGE"}
+{"text": "I can take pride in the courage it takes to try.", "author": "FORGE"}
+{"text": "To strive, to seek, to find, and not to yield.", "author": "Alfred, Lord Tennyson", "source": "https://www.gutenberg.org/cache/epub/35289/pg35289-images.html"}
+{"text": "’Tis not too late to seek a newer world.", "author": "Alfred, Lord Tennyson", "source": "https://www.gutenberg.org/cache/epub/35289/pg35289-images.html"}
+{"text": "Hope is the thing with feathers", "author": "Emily Dickinson", "source": "https://www.gutenberg.org/cache/epub/2679/pg2679.html"}
+{"text": "Come forth into the light of things, Let Nature be your Teacher.", "author": "William Wordsworth", "source": "https://www.gutenberg.org/files/10219/10219-h/10219-h.htm"}
+{"text": "Optimism is the faith that leads to achievement; nothing can be done without hope.", "author": "Helen Keller", "source": "https://www.gutenberg.org/files/31622/31622-h/31622-h.htm"}
+{"text": "Life is not something to be lived through; it is something to be lived up to.", "author": "William George Jordan", "source": "https://www.gutenberg.org/files/6911/6911-h/6911-h.htm"}
+{"text": "Nothing can bring you peace but yourself.", "author": "Ralph Waldo Emerson", "source": "https://www.gutenberg.org/files/2944/2944-h/2944-h.htm"}
+{"text": "Love is fabled to be blind, but kindness is necessary to perception.", "author": "Ralph Waldo Emerson", "source": "https://www.gutenberg.org/files/2944/2944-h/2944-h.htm"}
+{"text": "I desire to radiate health, cheerfulness, calm courage and good will.", "author": "Elbert Hubbard", "source": "https://www.gutenberg.org/cache/epub/10417/pg10417.html"}
+{"text": "Happiness, at least, is not solitary; it joys to communicate.", "author": "Robert Louis Stevenson", "source": "https://www.gutenberg.org/cache/epub/30729/pg30729-images.html"}
+{"text": "Continue your annotations, continue your questionings.", "author": "Walt Whitman", "source": "https://www.gutenberg.org/files/1322/1322-h/1322-h.htm"}
+{"text": "Kindness does not consist in gifts, but in gentleness and generosity of spirit.", "author": "The Golden Gems of Life (1883)", "source": "https://www.gutenberg.org/files/51374/51374-h/51374-h.htm"}
+{"text": "Many persons might have attained to wisdom had they not assumed that they already possessed it.", "author": "Thoughts: Selected from Writings of Favorite Authors (1900)", "source": "https://www.gutenberg.org/cache/epub/69627/pg69627-images.html"}
+{"text": "Let us, then, be up and doing, With a heart for any fate; Still achieving, still pursuing, Learn to labor and to wait.", "author": "Henry Wadsworth Longfellow", "source": "https://www.gutenberg.org/files/1365/1365-h/1365-h.htm"}
