@@ -16,13 +16,13 @@ FORGE is a personal fitness tracker designed for iPhone. It combines a flexible 
 
 Screenshots show an empty demonstration state; your own entries appear after you start logging.
 
-- **Today:** Daily food and training summaries, a random affirmation or sourced quotation, quick logging, and a shareable text preview. You choose which details to include before sharing.
+- **Today:** Daily food and training summaries, a random affirmation, quick logging, and a shareable text preview. You choose which details to include before sharing.
 - **Training:** Log sets and cardio, track body weight, use a rest timer, and explore the overview, routine, exercise library, analysis, and history tabs.
 - **Routines:** Create and switch between routines, add or remove training days and exercises, reorder or move exercises, and set optional targets and notes. The starting template uses the owner's five-day split, but you can build a different schedule.
 - **Exercise library:** Browse 876 exercises from Free Exercise DB plus additional cardio activities and your own custom exercises. Filter by body region, muscle, or equipment. Exercise reference photos require an internet connection.
 - **Analysis:** Inspect training history by assigned primary muscle, including set counts and weighted exercise trends. These describe logged training, not measured muscle growth.
 - **Fuel and goals:** Log food and macros manually. The optional calorie and macro planner estimates a starting target using your profile, activity level, weight goal, and preferences; review the result before applying it.
-- **Inspiration:** The local [quote bank](quotes.txt) contains 1,000 entries: 982 original FORGE affirmations and 18 attributed quotations with source links. Many of the newer affirmations are generated from combinations of original phrases; they are not attributed quotations from the internet. The refresh button chooses another message.
+- **Inspiration:** The local [affirmation bank](quotes.txt) contains 1,500 original FORGE messages, including affirmations about relationships, self-worth, and mutual respect. Many messages are composed from combinations of original phrases. The refresh button chooses another message.
 
 ## Install on iPhone
 
@@ -54,9 +54,10 @@ src/legacy/library.js      Exercise filtering and reference photos
 src/legacy/nutrition-v14.js Affirmations, nutrition planner, and React bridge
 src/legacy/nutrition.js     Previous bridge retained for cached older app shells
 src/legacy/sharing.js      Share preview, zoom handling, and startup
-src/styles.css             Shared app styles
+src/styles-v15.css         Shared app styles and fixed navigation stacking
+src/styles.css             Previous stylesheet retained for cached older app shells
 vendor/                    Locally hosted React 18.2.0 and React DOM (MIT)
-quotes.txt                 One JSON object per line; add text, author, and optional source
+quotes.txt                 One JSON object per line; original FORGE affirmations
 sw.js                      Offline app shell cache
 ```
 

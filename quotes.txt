@@ -1,5 +1,4 @@
-# One JSON object per line. Add text, author, and optional source (https URL).
-# FORGE entries are original affirmations; other entries are sourced quotations.
+# One JSON object per line. All entries are original FORGE affirmations.
 {"text": "I can make progress at a pace that works for me.", "author": "FORGE"}
 {"text": "Every time I show up, I strengthen a promise to myself.", "author": "FORGE"}
 {"text": "I am building habits that support the life I want.", "author": "FORGE"}
@@ -110,20 +109,6 @@
 {"text": "I can make today a little kinder.", "author": "FORGE"}
 {"text": "I have room to grow and reasons to be grateful.", "author": "FORGE"}
 {"text": "I can take pride in the courage it takes to try.", "author": "FORGE"}
-{"text": "To strive, to seek, to find, and not to yield.", "author": "Alfred, Lord Tennyson", "source": "https://www.gutenberg.org/cache/epub/35289/pg35289-images.html"}
-{"text": "’Tis not too late to seek a newer world.", "author": "Alfred, Lord Tennyson", "source": "https://www.gutenberg.org/cache/epub/35289/pg35289-images.html"}
-{"text": "Hope is the thing with feathers", "author": "Emily Dickinson", "source": "https://www.gutenberg.org/cache/epub/2679/pg2679.html"}
-{"text": "Come forth into the light of things, Let Nature be your Teacher.", "author": "William Wordsworth", "source": "https://www.gutenberg.org/files/10219/10219-h/10219-h.htm"}
-{"text": "Optimism is the faith that leads to achievement; nothing can be done without hope.", "author": "Helen Keller", "source": "https://www.gutenberg.org/files/31622/31622-h/31622-h.htm"}
-{"text": "Life is not something to be lived through; it is something to be lived up to.", "author": "William George Jordan", "source": "https://www.gutenberg.org/files/6911/6911-h/6911-h.htm"}
-{"text": "Nothing can bring you peace but yourself.", "author": "Ralph Waldo Emerson", "source": "https://www.gutenberg.org/files/2944/2944-h/2944-h.htm"}
-{"text": "Love is fabled to be blind, but kindness is necessary to perception.", "author": "Ralph Waldo Emerson", "source": "https://www.gutenberg.org/files/2944/2944-h/2944-h.htm"}
-{"text": "I desire to radiate health, cheerfulness, calm courage and good will.", "author": "Elbert Hubbard", "source": "https://www.gutenberg.org/cache/epub/10417/pg10417.html"}
-{"text": "Happiness, at least, is not solitary; it joys to communicate.", "author": "Robert Louis Stevenson", "source": "https://www.gutenberg.org/cache/epub/30729/pg30729-images.html"}
-{"text": "Continue your annotations, continue your questionings.", "author": "Walt Whitman", "source": "https://www.gutenberg.org/files/1322/1322-h/1322-h.htm"}
-{"text": "Kindness does not consist in gifts, but in gentleness and generosity of spirit.", "author": "The Golden Gems of Life (1883)", "source": "https://www.gutenberg.org/files/51374/51374-h/51374-h.htm"}
-{"text": "Many persons might have attained to wisdom had they not assumed that they already possessed it.", "author": "Thoughts: Selected from Writings of Favorite Authors (1900)", "source": "https://www.gutenberg.org/cache/epub/69627/pg69627-images.html"}
-{"text": "Let us, then, be up and doing, With a heart for any fate; Still achieving, still pursuing, Learn to labor and to wait.", "author": "Henry Wadsworth Longfellow", "source": "https://www.gutenberg.org/files/1365/1365-h/1365-h.htm"}
 {"text": "I can take a thoughtful next step even when the path ahead feels uncertain.", "author": "FORGE"}
 {"text": "I can make time for the people who matter to me.", "author": "FORGE"}
 {"text": "A quiet pause can be a meaningful part of my day.", "author": "FORGE"}
@@ -996,7 +981,521 @@
 {"text": "I can make space for what matters and see where that small choice leads.", "author": "FORGE"}
 {"text": "I can make a little room for joy even when I am still figuring things out.", "author": "FORGE"}
 {"text": "I can appreciate the ideas that excite me.", "author": "FORGE"}
-{"text": "What is now proved was once only imagined.", "author": "William Blake", "source": "https://www.gutenberg.org/files/45315/old/45315-h/45315-h.htm"}
-{"text": "I took the one less traveled by, And that has made all the difference.", "author": "Robert Frost", "source": "https://www.gutenberg.org/files/29345/29345-h/29345-h.htm"}
-{"text": "For Hope is what the world is living on!", "author": "Henry Reed Conant", "source": "https://www.gutenberg.org/files/51904/51904-h/51904-h.htm"}
-{"text": "New hope, new courage, each new day", "author": "Wilhelmina Stitch", "source": "https://www.gutenberg.org/files/75156/75156-h/75156-h.htm"}
+{"text": "I can listen with care when we see things differently.", "author": "FORGE"}
+{"text": "My needs deserve care and consideration.", "author": "FORGE"}
+{"text": "I can build relationships without abandoning my own needs.", "author": "FORGE"}
+{"text": "It is okay to say no and still care about other people.", "author": "FORGE"}
+{"text": "A respectful boundary can support a healthier connection.", "author": "FORGE"}
+{"text": "I can listen with care when a conversation feels difficult.", "author": "FORGE"}
+{"text": "My needs deserve the same respect I offer others.", "author": "FORGE"}
+{"text": "I can build relationships while respecting everyone involved.", "author": "FORGE"}
+{"text": "It is okay to say no without apologizing for having needs.", "author": "FORGE"}
+{"text": "A respectful boundary can make room for understanding.", "author": "FORGE"}
+{"text": "I can listen with care while getting to know someone.", "author": "FORGE"}
+{"text": "My needs deserve attention without judgment.", "author": "FORGE"}
+{"text": "I can build relationships with honesty and patience.", "author": "FORGE"}
+{"text": "It is okay to say no while speaking with kindness.", "author": "FORGE"}
+{"text": "A respectful boundary can be a meaningful act of care.", "author": "FORGE"}
+{"text": "I can listen with care when I feel misunderstood.", "author": "FORGE"}
+{"text": "My needs deserve space in my relationships.", "author": "FORGE"}
+{"text": "I can build relationships one thoughtful moment at a time.", "author": "FORGE"}
+{"text": "It is okay to say no and give myself time to reflect.", "author": "FORGE"}
+{"text": "A respectful boundary can help trust grow over time.", "author": "FORGE"}
+{"text": "I can listen with care when the answer is not immediate.", "author": "FORGE"}
+{"text": "My needs deserve kindness, including from myself.", "author": "FORGE"}
+{"text": "I can build relationships without pretending to be someone else.", "author": "FORGE"}
+{"text": "It is okay to say no while treating myself with respect.", "author": "FORGE"}
+{"text": "A respectful boundary can make a difficult moment gentler.", "author": "FORGE"}
+{"text": "I can listen with care as trust grows between us.", "author": "FORGE"}
+{"text": "My needs deserve to be acknowledged.", "author": "FORGE"}
+{"text": "I can build relationships while making space for differences.", "author": "FORGE"}
+{"text": "It is okay to say no without explaining more than I want to.", "author": "FORGE"}
+{"text": "A respectful boundary can help both people feel heard.", "author": "FORGE"}
+{"text": "I can listen with care when emotions are running high.", "author": "FORGE"}
+{"text": "My needs deserve patience as I learn.", "author": "FORGE"}
+{"text": "I can build relationships and still honor my boundaries.", "author": "FORGE"}
+{"text": "It is okay to say no and remain open to understanding.", "author": "FORGE"}
+{"text": "A respectful boundary can be a step toward mutual respect.", "author": "FORGE"}
+{"text": "I can listen with care while learning what matters to someone.", "author": "FORGE"}
+{"text": "My needs deserve honesty and compassion.", "author": "FORGE"}
+{"text": "I can build relationships without having all the answers.", "author": "FORGE"}
+{"text": "It is okay to say no while honoring another person’s feelings.", "author": "FORGE"}
+{"text": "A respectful boundary can help me stay true to myself.", "author": "FORGE"}
+{"text": "I can listen with care when I am deciding what to share.", "author": "FORGE"}
+{"text": "My needs deserve room to change over time.", "author": "FORGE"}
+{"text": "I can build relationships with warmth and clear communication.", "author": "FORGE"}
+{"text": "It is okay to say no and choose how I want to respond.", "author": "FORGE"}
+{"text": "A respectful boundary can make space for different perspectives.", "author": "FORGE"}
+{"text": "I can listen with care while respecting my own feelings.", "author": "FORGE"}
+{"text": "My needs deserve to be taken seriously.", "author": "FORGE"}
+{"text": "I can build relationships while allowing trust to develop.", "author": "FORGE"}
+{"text": "It is okay to say no as I learn what feels healthy for me.", "author": "FORGE"}
+{"text": "A respectful boundary can strengthen the way I relate to others.", "author": "FORGE"}
+{"text": "I can listen with care when I need more time to think.", "author": "FORGE"}
+{"text": "My needs deserve thoughtful attention.", "author": "FORGE"}
+{"text": "I can build relationships and remember that care goes both ways.", "author": "FORGE"}
+{"text": "It is okay to say no without judging myself for needing care.", "author": "FORGE"}
+{"text": "A respectful boundary can be valuable even when it feels small.", "author": "FORGE"}
+{"text": "I can listen with care when someone shares their perspective.", "author": "FORGE"}
+{"text": "My needs deserve to be treated with dignity.", "author": "FORGE"}
+{"text": "I can build relationships without rushing what takes time.", "author": "FORGE"}
+{"text": "It is okay to say no and protect the space I need.", "author": "FORGE"}
+{"text": "A respectful boundary can help me approach conflict thoughtfully.", "author": "FORGE"}
+{"text": "I can listen with care as we work through a disagreement.", "author": "FORGE"}
+{"text": "My needs deserve care on ordinary days.", "author": "FORGE"}
+{"text": "I can build relationships with room for kindness and growth.", "author": "FORGE"}
+{"text": "It is okay to say no while respecting another person’s choices.", "author": "FORGE"}
+{"text": "A respectful boundary can remind me that my needs matter.", "author": "FORGE"}
+{"text": "I can speak with honesty when we see things differently.", "author": "FORGE"}
+{"text": "My feelings deserve care and consideration.", "author": "FORGE"}
+{"text": "I can practice friendship without abandoning my own needs.", "author": "FORGE"}
+{"text": "It is okay to ask for space and still care about other people.", "author": "FORGE"}
+{"text": "A sincere apology can support a healthier connection.", "author": "FORGE"}
+{"text": "I can speak with honesty when a conversation feels difficult.", "author": "FORGE"}
+{"text": "My feelings deserve the same respect I offer others.", "author": "FORGE"}
+{"text": "I can practice friendship while respecting everyone involved.", "author": "FORGE"}
+{"text": "It is okay to ask for space without apologizing for having needs.", "author": "FORGE"}
+{"text": "A sincere apology can make room for understanding.", "author": "FORGE"}
+{"text": "I can speak with honesty while getting to know someone.", "author": "FORGE"}
+{"text": "My feelings deserve attention without judgment.", "author": "FORGE"}
+{"text": "I can practice friendship with honesty and patience.", "author": "FORGE"}
+{"text": "It is okay to ask for space while speaking with kindness.", "author": "FORGE"}
+{"text": "A sincere apology can be a meaningful act of care.", "author": "FORGE"}
+{"text": "I can speak with honesty when I feel misunderstood.", "author": "FORGE"}
+{"text": "My feelings deserve space in my relationships.", "author": "FORGE"}
+{"text": "I can practice friendship one thoughtful moment at a time.", "author": "FORGE"}
+{"text": "It is okay to ask for space and give myself time to reflect.", "author": "FORGE"}
+{"text": "A sincere apology can help trust grow over time.", "author": "FORGE"}
+{"text": "I can speak with honesty when the answer is not immediate.", "author": "FORGE"}
+{"text": "My feelings deserve kindness, including from myself.", "author": "FORGE"}
+{"text": "I can practice friendship without pretending to be someone else.", "author": "FORGE"}
+{"text": "It is okay to ask for space while treating myself with respect.", "author": "FORGE"}
+{"text": "A sincere apology can make a difficult moment gentler.", "author": "FORGE"}
+{"text": "I can speak with honesty as trust grows between us.", "author": "FORGE"}
+{"text": "My feelings deserve to be acknowledged.", "author": "FORGE"}
+{"text": "I can practice friendship while making space for differences.", "author": "FORGE"}
+{"text": "It is okay to ask for space without explaining more than I want to.", "author": "FORGE"}
+{"text": "A sincere apology can help both people feel heard.", "author": "FORGE"}
+{"text": "I can speak with honesty when emotions are running high.", "author": "FORGE"}
+{"text": "My feelings deserve patience as I learn.", "author": "FORGE"}
+{"text": "I can practice friendship and still honor my boundaries.", "author": "FORGE"}
+{"text": "It is okay to ask for space and remain open to understanding.", "author": "FORGE"}
+{"text": "A sincere apology can be a step toward mutual respect.", "author": "FORGE"}
+{"text": "I can speak with honesty while learning what matters to someone.", "author": "FORGE"}
+{"text": "My feelings deserve honesty and compassion.", "author": "FORGE"}
+{"text": "I can practice friendship without having all the answers.", "author": "FORGE"}
+{"text": "It is okay to ask for space while honoring another person’s feelings.", "author": "FORGE"}
+{"text": "A sincere apology can help me stay true to myself.", "author": "FORGE"}
+{"text": "I can speak with honesty when I am deciding what to share.", "author": "FORGE"}
+{"text": "My feelings deserve room to change over time.", "author": "FORGE"}
+{"text": "I can practice friendship with warmth and clear communication.", "author": "FORGE"}
+{"text": "It is okay to ask for space and choose how I want to respond.", "author": "FORGE"}
+{"text": "A sincere apology can make space for different perspectives.", "author": "FORGE"}
+{"text": "I can speak with honesty while respecting my own feelings.", "author": "FORGE"}
+{"text": "My feelings deserve to be taken seriously.", "author": "FORGE"}
+{"text": "I can practice friendship while allowing trust to develop.", "author": "FORGE"}
+{"text": "It is okay to ask for space as I learn what feels healthy for me.", "author": "FORGE"}
+{"text": "A sincere apology can strengthen the way I relate to others.", "author": "FORGE"}
+{"text": "I can speak with honesty when I need more time to think.", "author": "FORGE"}
+{"text": "My feelings deserve thoughtful attention.", "author": "FORGE"}
+{"text": "I can practice friendship and remember that care goes both ways.", "author": "FORGE"}
+{"text": "It is okay to ask for space without judging myself for needing care.", "author": "FORGE"}
+{"text": "A sincere apology can be valuable even when it feels small.", "author": "FORGE"}
+{"text": "I can speak with honesty when someone shares their perspective.", "author": "FORGE"}
+{"text": "My feelings deserve to be treated with dignity.", "author": "FORGE"}
+{"text": "I can practice friendship without rushing what takes time.", "author": "FORGE"}
+{"text": "It is okay to ask for space and protect the space I need.", "author": "FORGE"}
+{"text": "A sincere apology can help me approach conflict thoughtfully.", "author": "FORGE"}
+{"text": "I can speak with honesty as we work through a disagreement.", "author": "FORGE"}
+{"text": "My feelings deserve care on ordinary days.", "author": "FORGE"}
+{"text": "I can practice friendship with room for kindness and growth.", "author": "FORGE"}
+{"text": "It is okay to ask for space while respecting another person’s choices.", "author": "FORGE"}
+{"text": "A sincere apology can remind me that my needs matter.", "author": "FORGE"}
+{"text": "I can ask for clarity when we see things differently.", "author": "FORGE"}
+{"text": "My boundaries deserve care and consideration.", "author": "FORGE"}
+{"text": "I can offer support without abandoning my own needs.", "author": "FORGE"}
+{"text": "It is okay to change my mind and still care about other people.", "author": "FORGE"}
+{"text": "A patient conversation can support a healthier connection.", "author": "FORGE"}
+{"text": "I can ask for clarity when a conversation feels difficult.", "author": "FORGE"}
+{"text": "My boundaries deserve the same respect I offer others.", "author": "FORGE"}
+{"text": "I can offer support while respecting everyone involved.", "author": "FORGE"}
+{"text": "It is okay to change my mind without apologizing for having needs.", "author": "FORGE"}
+{"text": "A patient conversation can make room for understanding.", "author": "FORGE"}
+{"text": "I can ask for clarity while getting to know someone.", "author": "FORGE"}
+{"text": "My boundaries deserve attention without judgment.", "author": "FORGE"}
+{"text": "I can offer support with honesty and patience.", "author": "FORGE"}
+{"text": "It is okay to change my mind while speaking with kindness.", "author": "FORGE"}
+{"text": "A patient conversation can be a meaningful act of care.", "author": "FORGE"}
+{"text": "I can ask for clarity when I feel misunderstood.", "author": "FORGE"}
+{"text": "My boundaries deserve space in my relationships.", "author": "FORGE"}
+{"text": "I can offer support one thoughtful moment at a time.", "author": "FORGE"}
+{"text": "It is okay to change my mind and give myself time to reflect.", "author": "FORGE"}
+{"text": "A patient conversation can help trust grow over time.", "author": "FORGE"}
+{"text": "I can ask for clarity when the answer is not immediate.", "author": "FORGE"}
+{"text": "My boundaries deserve kindness, including from myself.", "author": "FORGE"}
+{"text": "I can offer support without pretending to be someone else.", "author": "FORGE"}
+{"text": "It is okay to change my mind while treating myself with respect.", "author": "FORGE"}
+{"text": "A patient conversation can make a difficult moment gentler.", "author": "FORGE"}
+{"text": "I can ask for clarity as trust grows between us.", "author": "FORGE"}
+{"text": "My boundaries deserve to be acknowledged.", "author": "FORGE"}
+{"text": "I can offer support while making space for differences.", "author": "FORGE"}
+{"text": "It is okay to change my mind without explaining more than I want to.", "author": "FORGE"}
+{"text": "A patient conversation can help both people feel heard.", "author": "FORGE"}
+{"text": "I can ask for clarity when emotions are running high.", "author": "FORGE"}
+{"text": "My boundaries deserve patience as I learn.", "author": "FORGE"}
+{"text": "I can offer support and still honor my boundaries.", "author": "FORGE"}
+{"text": "It is okay to change my mind and remain open to understanding.", "author": "FORGE"}
+{"text": "A patient conversation can be a step toward mutual respect.", "author": "FORGE"}
+{"text": "I can ask for clarity while learning what matters to someone.", "author": "FORGE"}
+{"text": "My boundaries deserve honesty and compassion.", "author": "FORGE"}
+{"text": "I can offer support without having all the answers.", "author": "FORGE"}
+{"text": "It is okay to change my mind while honoring another person’s feelings.", "author": "FORGE"}
+{"text": "A patient conversation can help me stay true to myself.", "author": "FORGE"}
+{"text": "I can ask for clarity when I am deciding what to share.", "author": "FORGE"}
+{"text": "My boundaries deserve room to change over time.", "author": "FORGE"}
+{"text": "I can offer support with warmth and clear communication.", "author": "FORGE"}
+{"text": "It is okay to change my mind and choose how I want to respond.", "author": "FORGE"}
+{"text": "A patient conversation can make space for different perspectives.", "author": "FORGE"}
+{"text": "I can ask for clarity while respecting my own feelings.", "author": "FORGE"}
+{"text": "My boundaries deserve to be taken seriously.", "author": "FORGE"}
+{"text": "I can offer support while allowing trust to develop.", "author": "FORGE"}
+{"text": "It is okay to change my mind as I learn what feels healthy for me.", "author": "FORGE"}
+{"text": "A patient conversation can strengthen the way I relate to others.", "author": "FORGE"}
+{"text": "I can ask for clarity when I need more time to think.", "author": "FORGE"}
+{"text": "My boundaries deserve thoughtful attention.", "author": "FORGE"}
+{"text": "I can offer support and remember that care goes both ways.", "author": "FORGE"}
+{"text": "It is okay to change my mind without judging myself for needing care.", "author": "FORGE"}
+{"text": "A patient conversation can be valuable even when it feels small.", "author": "FORGE"}
+{"text": "I can ask for clarity when someone shares their perspective.", "author": "FORGE"}
+{"text": "My boundaries deserve to be treated with dignity.", "author": "FORGE"}
+{"text": "I can offer support without rushing what takes time.", "author": "FORGE"}
+{"text": "It is okay to change my mind and protect the space I need.", "author": "FORGE"}
+{"text": "A patient conversation can help me approach conflict thoughtfully.", "author": "FORGE"}
+{"text": "I can ask for clarity as we work through a disagreement.", "author": "FORGE"}
+{"text": "My boundaries deserve care on ordinary days.", "author": "FORGE"}
+{"text": "I can offer support with room for kindness and growth.", "author": "FORGE"}
+{"text": "It is okay to change my mind while respecting another person’s choices.", "author": "FORGE"}
+{"text": "A patient conversation can remind me that my needs matter.", "author": "FORGE"}
+{"text": "I can express my feelings respectfully when we see things differently.", "author": "FORGE"}
+{"text": "My time deserves care and consideration.", "author": "FORGE"}
+{"text": "I can show appreciation without abandoning my own needs.", "author": "FORGE"}
+{"text": "It is okay to request clarity and still care about other people.", "author": "FORGE"}
+{"text": "A thoughtful question can support a healthier connection.", "author": "FORGE"}
+{"text": "I can express my feelings respectfully when a conversation feels difficult.", "author": "FORGE"}
+{"text": "My time deserves the same respect I offer others.", "author": "FORGE"}
+{"text": "I can show appreciation while respecting everyone involved.", "author": "FORGE"}
+{"text": "It is okay to request clarity without apologizing for having needs.", "author": "FORGE"}
+{"text": "A thoughtful question can make room for understanding.", "author": "FORGE"}
+{"text": "I can express my feelings respectfully while getting to know someone.", "author": "FORGE"}
+{"text": "My time deserves attention without judgment.", "author": "FORGE"}
+{"text": "I can show appreciation with honesty and patience.", "author": "FORGE"}
+{"text": "It is okay to request clarity while speaking with kindness.", "author": "FORGE"}
+{"text": "A thoughtful question can be a meaningful act of care.", "author": "FORGE"}
+{"text": "I can express my feelings respectfully when I feel misunderstood.", "author": "FORGE"}
+{"text": "My time deserves space in my relationships.", "author": "FORGE"}
+{"text": "I can show appreciation one thoughtful moment at a time.", "author": "FORGE"}
+{"text": "It is okay to request clarity and give myself time to reflect.", "author": "FORGE"}
+{"text": "A thoughtful question can help trust grow over time.", "author": "FORGE"}
+{"text": "I can express my feelings respectfully when the answer is not immediate.", "author": "FORGE"}
+{"text": "My time deserves kindness, including from myself.", "author": "FORGE"}
+{"text": "I can show appreciation without pretending to be someone else.", "author": "FORGE"}
+{"text": "It is okay to request clarity while treating myself with respect.", "author": "FORGE"}
+{"text": "A thoughtful question can make a difficult moment gentler.", "author": "FORGE"}
+{"text": "I can express my feelings respectfully as trust grows between us.", "author": "FORGE"}
+{"text": "My time deserves to be acknowledged.", "author": "FORGE"}
+{"text": "I can show appreciation while making space for differences.", "author": "FORGE"}
+{"text": "It is okay to request clarity without explaining more than I want to.", "author": "FORGE"}
+{"text": "A thoughtful question can help both people feel heard.", "author": "FORGE"}
+{"text": "I can express my feelings respectfully when emotions are running high.", "author": "FORGE"}
+{"text": "My time deserves patience as I learn.", "author": "FORGE"}
+{"text": "I can show appreciation and still honor my boundaries.", "author": "FORGE"}
+{"text": "It is okay to request clarity and remain open to understanding.", "author": "FORGE"}
+{"text": "A thoughtful question can be a step toward mutual respect.", "author": "FORGE"}
+{"text": "I can express my feelings respectfully while learning what matters to someone.", "author": "FORGE"}
+{"text": "My time deserves honesty and compassion.", "author": "FORGE"}
+{"text": "I can show appreciation without having all the answers.", "author": "FORGE"}
+{"text": "It is okay to request clarity while honoring another person’s feelings.", "author": "FORGE"}
+{"text": "A thoughtful question can help me stay true to myself.", "author": "FORGE"}
+{"text": "I can express my feelings respectfully when I am deciding what to share.", "author": "FORGE"}
+{"text": "My time deserves room to change over time.", "author": "FORGE"}
+{"text": "I can show appreciation with warmth and clear communication.", "author": "FORGE"}
+{"text": "It is okay to request clarity and choose how I want to respond.", "author": "FORGE"}
+{"text": "A thoughtful question can make space for different perspectives.", "author": "FORGE"}
+{"text": "I can express my feelings respectfully while respecting my own feelings.", "author": "FORGE"}
+{"text": "My time deserves to be taken seriously.", "author": "FORGE"}
+{"text": "I can show appreciation while allowing trust to develop.", "author": "FORGE"}
+{"text": "It is okay to request clarity as I learn what feels healthy for me.", "author": "FORGE"}
+{"text": "A thoughtful question can strengthen the way I relate to others.", "author": "FORGE"}
+{"text": "I can express my feelings respectfully when I need more time to think.", "author": "FORGE"}
+{"text": "My time deserves thoughtful attention.", "author": "FORGE"}
+{"text": "I can show appreciation and remember that care goes both ways.", "author": "FORGE"}
+{"text": "It is okay to request clarity without judging myself for needing care.", "author": "FORGE"}
+{"text": "A thoughtful question can be valuable even when it feels small.", "author": "FORGE"}
+{"text": "I can express my feelings respectfully when someone shares their perspective.", "author": "FORGE"}
+{"text": "My time deserves to be treated with dignity.", "author": "FORGE"}
+{"text": "I can show appreciation without rushing what takes time.", "author": "FORGE"}
+{"text": "It is okay to request clarity and protect the space I need.", "author": "FORGE"}
+{"text": "A thoughtful question can help me approach conflict thoughtfully.", "author": "FORGE"}
+{"text": "I can express my feelings respectfully as we work through a disagreement.", "author": "FORGE"}
+{"text": "My time deserves care on ordinary days.", "author": "FORGE"}
+{"text": "I can show appreciation with room for kindness and growth.", "author": "FORGE"}
+{"text": "It is okay to request clarity while respecting another person’s choices.", "author": "FORGE"}
+{"text": "A thoughtful question can remind me that my needs matter.", "author": "FORGE"}
+{"text": "I can stay curious when we see things differently.", "author": "FORGE"}
+{"text": "My voice deserves care and consideration.", "author": "FORGE"}
+{"text": "I can make a connection without abandoning my own needs.", "author": "FORGE"}
+{"text": "It is okay to take a pause and still care about other people.", "author": "FORGE"}
+{"text": "A moment of listening can support a healthier connection.", "author": "FORGE"}
+{"text": "I can stay curious when a conversation feels difficult.", "author": "FORGE"}
+{"text": "My voice deserves the same respect I offer others.", "author": "FORGE"}
+{"text": "I can make a connection while respecting everyone involved.", "author": "FORGE"}
+{"text": "It is okay to take a pause without apologizing for having needs.", "author": "FORGE"}
+{"text": "A moment of listening can make room for understanding.", "author": "FORGE"}
+{"text": "I can stay curious while getting to know someone.", "author": "FORGE"}
+{"text": "My voice deserves attention without judgment.", "author": "FORGE"}
+{"text": "I can make a connection with honesty and patience.", "author": "FORGE"}
+{"text": "It is okay to take a pause while speaking with kindness.", "author": "FORGE"}
+{"text": "A moment of listening can be a meaningful act of care.", "author": "FORGE"}
+{"text": "I can stay curious when I feel misunderstood.", "author": "FORGE"}
+{"text": "My voice deserves space in my relationships.", "author": "FORGE"}
+{"text": "I can make a connection one thoughtful moment at a time.", "author": "FORGE"}
+{"text": "It is okay to take a pause and give myself time to reflect.", "author": "FORGE"}
+{"text": "A moment of listening can help trust grow over time.", "author": "FORGE"}
+{"text": "I can stay curious when the answer is not immediate.", "author": "FORGE"}
+{"text": "My voice deserves kindness, including from myself.", "author": "FORGE"}
+{"text": "I can make a connection without pretending to be someone else.", "author": "FORGE"}
+{"text": "It is okay to take a pause while treating myself with respect.", "author": "FORGE"}
+{"text": "A moment of listening can make a difficult moment gentler.", "author": "FORGE"}
+{"text": "I can stay curious as trust grows between us.", "author": "FORGE"}
+{"text": "My voice deserves to be acknowledged.", "author": "FORGE"}
+{"text": "I can make a connection while making space for differences.", "author": "FORGE"}
+{"text": "It is okay to take a pause without explaining more than I want to.", "author": "FORGE"}
+{"text": "A moment of listening can help both people feel heard.", "author": "FORGE"}
+{"text": "I can stay curious when emotions are running high.", "author": "FORGE"}
+{"text": "My voice deserves patience as I learn.", "author": "FORGE"}
+{"text": "I can make a connection and still honor my boundaries.", "author": "FORGE"}
+{"text": "It is okay to take a pause and remain open to understanding.", "author": "FORGE"}
+{"text": "A moment of listening can be a step toward mutual respect.", "author": "FORGE"}
+{"text": "I can stay curious while learning what matters to someone.", "author": "FORGE"}
+{"text": "My voice deserves honesty and compassion.", "author": "FORGE"}
+{"text": "I can make a connection without having all the answers.", "author": "FORGE"}
+{"text": "It is okay to take a pause while honoring another person’s feelings.", "author": "FORGE"}
+{"text": "A moment of listening can help me stay true to myself.", "author": "FORGE"}
+{"text": "I can stay curious when I am deciding what to share.", "author": "FORGE"}
+{"text": "My voice deserves room to change over time.", "author": "FORGE"}
+{"text": "I can make a connection with warmth and clear communication.", "author": "FORGE"}
+{"text": "It is okay to take a pause and choose how I want to respond.", "author": "FORGE"}
+{"text": "A moment of listening can make space for different perspectives.", "author": "FORGE"}
+{"text": "I can stay curious while respecting my own feelings.", "author": "FORGE"}
+{"text": "My voice deserves to be taken seriously.", "author": "FORGE"}
+{"text": "I can make a connection while allowing trust to develop.", "author": "FORGE"}
+{"text": "It is okay to take a pause as I learn what feels healthy for me.", "author": "FORGE"}
+{"text": "A moment of listening can strengthen the way I relate to others.", "author": "FORGE"}
+{"text": "I can stay curious when I need more time to think.", "author": "FORGE"}
+{"text": "My voice deserves thoughtful attention.", "author": "FORGE"}
+{"text": "I can make a connection and remember that care goes both ways.", "author": "FORGE"}
+{"text": "It is okay to take a pause without judging myself for needing care.", "author": "FORGE"}
+{"text": "A moment of listening can be valuable even when it feels small.", "author": "FORGE"}
+{"text": "I can stay curious when someone shares their perspective.", "author": "FORGE"}
+{"text": "My voice deserves to be treated with dignity.", "author": "FORGE"}
+{"text": "I can make a connection without rushing what takes time.", "author": "FORGE"}
+{"text": "It is okay to take a pause and protect the space I need.", "author": "FORGE"}
+{"text": "A moment of listening can help me approach conflict thoughtfully.", "author": "FORGE"}
+{"text": "I can stay curious as we work through a disagreement.", "author": "FORGE"}
+{"text": "My voice deserves care on ordinary days.", "author": "FORGE"}
+{"text": "I can make a connection with room for kindness and growth.", "author": "FORGE"}
+{"text": "It is okay to take a pause while respecting another person’s choices.", "author": "FORGE"}
+{"text": "A moment of listening can remind me that my needs matter.", "author": "FORGE"}
+{"text": "I can treat both of us with kindness when we see things differently.", "author": "FORGE"}
+{"text": "My perspective deserves care and consideration.", "author": "FORGE"}
+{"text": "I can share my perspective without abandoning my own needs.", "author": "FORGE"}
+{"text": "It is okay to ask for support and still care about other people.", "author": "FORGE"}
+{"text": "A clear request can support a healthier connection.", "author": "FORGE"}
+{"text": "I can treat both of us with kindness when a conversation feels difficult.", "author": "FORGE"}
+{"text": "My perspective deserves the same respect I offer others.", "author": "FORGE"}
+{"text": "I can share my perspective while respecting everyone involved.", "author": "FORGE"}
+{"text": "It is okay to ask for support without apologizing for having needs.", "author": "FORGE"}
+{"text": "A clear request can make room for understanding.", "author": "FORGE"}
+{"text": "I can treat both of us with kindness while getting to know someone.", "author": "FORGE"}
+{"text": "My perspective deserves attention without judgment.", "author": "FORGE"}
+{"text": "I can share my perspective with honesty and patience.", "author": "FORGE"}
+{"text": "It is okay to ask for support while speaking with kindness.", "author": "FORGE"}
+{"text": "A clear request can be a meaningful act of care.", "author": "FORGE"}
+{"text": "I can treat both of us with kindness when I feel misunderstood.", "author": "FORGE"}
+{"text": "My perspective deserves space in my relationships.", "author": "FORGE"}
+{"text": "I can share my perspective one thoughtful moment at a time.", "author": "FORGE"}
+{"text": "It is okay to ask for support and give myself time to reflect.", "author": "FORGE"}
+{"text": "A clear request can help trust grow over time.", "author": "FORGE"}
+{"text": "I can treat both of us with kindness when the answer is not immediate.", "author": "FORGE"}
+{"text": "My perspective deserves kindness, including from myself.", "author": "FORGE"}
+{"text": "I can share my perspective without pretending to be someone else.", "author": "FORGE"}
+{"text": "It is okay to ask for support while treating myself with respect.", "author": "FORGE"}
+{"text": "A clear request can make a difficult moment gentler.", "author": "FORGE"}
+{"text": "I can treat both of us with kindness as trust grows between us.", "author": "FORGE"}
+{"text": "My perspective deserves to be acknowledged.", "author": "FORGE"}
+{"text": "I can share my perspective while making space for differences.", "author": "FORGE"}
+{"text": "It is okay to ask for support without explaining more than I want to.", "author": "FORGE"}
+{"text": "A clear request can help both people feel heard.", "author": "FORGE"}
+{"text": "I can treat both of us with kindness when emotions are running high.", "author": "FORGE"}
+{"text": "My perspective deserves patience as I learn.", "author": "FORGE"}
+{"text": "I can share my perspective and still honor my boundaries.", "author": "FORGE"}
+{"text": "It is okay to ask for support and remain open to understanding.", "author": "FORGE"}
+{"text": "A clear request can be a step toward mutual respect.", "author": "FORGE"}
+{"text": "I can treat both of us with kindness while learning what matters to someone.", "author": "FORGE"}
+{"text": "My perspective deserves honesty and compassion.", "author": "FORGE"}
+{"text": "I can share my perspective without having all the answers.", "author": "FORGE"}
+{"text": "It is okay to ask for support while honoring another person’s feelings.", "author": "FORGE"}
+{"text": "A clear request can help me stay true to myself.", "author": "FORGE"}
+{"text": "I can treat both of us with kindness when I am deciding what to share.", "author": "FORGE"}
+{"text": "My perspective deserves room to change over time.", "author": "FORGE"}
+{"text": "I can share my perspective with warmth and clear communication.", "author": "FORGE"}
+{"text": "It is okay to ask for support and choose how I want to respond.", "author": "FORGE"}
+{"text": "A clear request can make space for different perspectives.", "author": "FORGE"}
+{"text": "I can treat both of us with kindness while respecting my own feelings.", "author": "FORGE"}
+{"text": "My perspective deserves to be taken seriously.", "author": "FORGE"}
+{"text": "I can share my perspective while allowing trust to develop.", "author": "FORGE"}
+{"text": "It is okay to ask for support as I learn what feels healthy for me.", "author": "FORGE"}
+{"text": "A clear request can strengthen the way I relate to others.", "author": "FORGE"}
+{"text": "I can treat both of us with kindness when I need more time to think.", "author": "FORGE"}
+{"text": "My perspective deserves thoughtful attention.", "author": "FORGE"}
+{"text": "I can share my perspective and remember that care goes both ways.", "author": "FORGE"}
+{"text": "It is okay to ask for support without judging myself for needing care.", "author": "FORGE"}
+{"text": "A clear request can be valuable even when it feels small.", "author": "FORGE"}
+{"text": "I can treat both of us with kindness when someone shares their perspective.", "author": "FORGE"}
+{"text": "My perspective deserves to be treated with dignity.", "author": "FORGE"}
+{"text": "I can share my perspective without rushing what takes time.", "author": "FORGE"}
+{"text": "It is okay to ask for support and protect the space I need.", "author": "FORGE"}
+{"text": "A clear request can help me approach conflict thoughtfully.", "author": "FORGE"}
+{"text": "I can treat both of us with kindness as we work through a disagreement.", "author": "FORGE"}
+{"text": "My perspective deserves care on ordinary days.", "author": "FORGE"}
+{"text": "I can share my perspective with room for kindness and growth.", "author": "FORGE"}
+{"text": "It is okay to ask for support while respecting another person’s choices.", "author": "FORGE"}
+{"text": "A clear request can remind me that my needs matter.", "author": "FORGE"}
+{"text": "I can make room for another perspective when we see things differently.", "author": "FORGE"}
+{"text": "My effort deserves care and consideration.", "author": "FORGE"}
+{"text": "I can work through conflict without abandoning my own needs.", "author": "FORGE"}
+{"text": "It is okay to name a boundary and still care about other people.", "author": "FORGE"}
+{"text": "A kind response can support a healthier connection.", "author": "FORGE"}
+{"text": "I can make room for another perspective when a conversation feels difficult.", "author": "FORGE"}
+{"text": "My effort deserves the same respect I offer others.", "author": "FORGE"}
+{"text": "I can work through conflict while respecting everyone involved.", "author": "FORGE"}
+{"text": "It is okay to name a boundary without apologizing for having needs.", "author": "FORGE"}
+{"text": "A kind response can make room for understanding.", "author": "FORGE"}
+{"text": "I can make room for another perspective while getting to know someone.", "author": "FORGE"}
+{"text": "My effort deserves attention without judgment.", "author": "FORGE"}
+{"text": "I can work through conflict with honesty and patience.", "author": "FORGE"}
+{"text": "It is okay to name a boundary while speaking with kindness.", "author": "FORGE"}
+{"text": "A kind response can be a meaningful act of care.", "author": "FORGE"}
+{"text": "I can make room for another perspective when I feel misunderstood.", "author": "FORGE"}
+{"text": "My effort deserves space in my relationships.", "author": "FORGE"}
+{"text": "I can work through conflict one thoughtful moment at a time.", "author": "FORGE"}
+{"text": "It is okay to name a boundary and give myself time to reflect.", "author": "FORGE"}
+{"text": "A kind response can help trust grow over time.", "author": "FORGE"}
+{"text": "I can make room for another perspective when the answer is not immediate.", "author": "FORGE"}
+{"text": "My effort deserves kindness, including from myself.", "author": "FORGE"}
+{"text": "I can work through conflict without pretending to be someone else.", "author": "FORGE"}
+{"text": "It is okay to name a boundary while treating myself with respect.", "author": "FORGE"}
+{"text": "A kind response can make a difficult moment gentler.", "author": "FORGE"}
+{"text": "I can make room for another perspective as trust grows between us.", "author": "FORGE"}
+{"text": "My effort deserves to be acknowledged.", "author": "FORGE"}
+{"text": "I can work through conflict while making space for differences.", "author": "FORGE"}
+{"text": "It is okay to name a boundary without explaining more than I want to.", "author": "FORGE"}
+{"text": "A kind response can help both people feel heard.", "author": "FORGE"}
+{"text": "I can make room for another perspective when emotions are running high.", "author": "FORGE"}
+{"text": "My effort deserves patience as I learn.", "author": "FORGE"}
+{"text": "I can work through conflict and still honor my boundaries.", "author": "FORGE"}
+{"text": "It is okay to name a boundary and remain open to understanding.", "author": "FORGE"}
+{"text": "A kind response can be a step toward mutual respect.", "author": "FORGE"}
+{"text": "I can make room for another perspective while learning what matters to someone.", "author": "FORGE"}
+{"text": "My effort deserves honesty and compassion.", "author": "FORGE"}
+{"text": "I can work through conflict without having all the answers.", "author": "FORGE"}
+{"text": "It is okay to name a boundary while honoring another person’s feelings.", "author": "FORGE"}
+{"text": "A kind response can help me stay true to myself.", "author": "FORGE"}
+{"text": "I can make room for another perspective when I am deciding what to share.", "author": "FORGE"}
+{"text": "My effort deserves room to change over time.", "author": "FORGE"}
+{"text": "I can work through conflict with warmth and clear communication.", "author": "FORGE"}
+{"text": "It is okay to name a boundary and choose how I want to respond.", "author": "FORGE"}
+{"text": "A kind response can make space for different perspectives.", "author": "FORGE"}
+{"text": "I can make room for another perspective while respecting my own feelings.", "author": "FORGE"}
+{"text": "My effort deserves to be taken seriously.", "author": "FORGE"}
+{"text": "I can work through conflict while allowing trust to develop.", "author": "FORGE"}
+{"text": "It is okay to name a boundary as I learn what feels healthy for me.", "author": "FORGE"}
+{"text": "A kind response can strengthen the way I relate to others.", "author": "FORGE"}
+{"text": "I can make room for another perspective when I need more time to think.", "author": "FORGE"}
+{"text": "My effort deserves thoughtful attention.", "author": "FORGE"}
+{"text": "I can work through conflict and remember that care goes both ways.", "author": "FORGE"}
+{"text": "It is okay to name a boundary without judging myself for needing care.", "author": "FORGE"}
+{"text": "A kind response can be valuable even when it feels small.", "author": "FORGE"}
+{"text": "I can make room for another perspective when someone shares their perspective.", "author": "FORGE"}
+{"text": "My effort deserves to be treated with dignity.", "author": "FORGE"}
+{"text": "I can work through conflict without rushing what takes time.", "author": "FORGE"}
+{"text": "It is okay to name a boundary and protect the space I need.", "author": "FORGE"}
+{"text": "A kind response can help me approach conflict thoughtfully.", "author": "FORGE"}
+{"text": "I can make room for another perspective as we work through a disagreement.", "author": "FORGE"}
+{"text": "My effort deserves care on ordinary days.", "author": "FORGE"}
+{"text": "I can work through conflict with room for kindness and growth.", "author": "FORGE"}
+{"text": "It is okay to name a boundary while respecting another person’s choices.", "author": "FORGE"}
+{"text": "A kind response can remind me that my needs matter.", "author": "FORGE"}
+{"text": "I can pause before responding when we see things differently.", "author": "FORGE"}
+{"text": "My well-being deserves care and consideration.", "author": "FORGE"}
+{"text": "I can welcome closeness without abandoning my own needs.", "author": "FORGE"}
+{"text": "It is okay to leave a conversation and return later and still care about other people.", "author": "FORGE"}
+{"text": "A caring friendship can support a healthier connection.", "author": "FORGE"}
+{"text": "I can pause before responding when a conversation feels difficult.", "author": "FORGE"}
+{"text": "My well-being deserves the same respect I offer others.", "author": "FORGE"}
+{"text": "I can welcome closeness while respecting everyone involved.", "author": "FORGE"}
+{"text": "It is okay to leave a conversation and return later without apologizing for having needs.", "author": "FORGE"}
+{"text": "A caring friendship can make room for understanding.", "author": "FORGE"}
+{"text": "I can pause before responding while getting to know someone.", "author": "FORGE"}
+{"text": "My well-being deserves attention without judgment.", "author": "FORGE"}
+{"text": "I can welcome closeness with honesty and patience.", "author": "FORGE"}
+{"text": "It is okay to leave a conversation and return later while speaking with kindness.", "author": "FORGE"}
+{"text": "A caring friendship can be a meaningful act of care.", "author": "FORGE"}
+{"text": "I can pause before responding when I feel misunderstood.", "author": "FORGE"}
+{"text": "My well-being deserves space in my relationships.", "author": "FORGE"}
+{"text": "I can welcome closeness one thoughtful moment at a time.", "author": "FORGE"}
+{"text": "It is okay to leave a conversation and return later and give myself time to reflect.", "author": "FORGE"}
+{"text": "A caring friendship can help trust grow over time.", "author": "FORGE"}
+{"text": "I can pause before responding when the answer is not immediate.", "author": "FORGE"}
+{"text": "My well-being deserves kindness, including from myself.", "author": "FORGE"}
+{"text": "I can welcome closeness without pretending to be someone else.", "author": "FORGE"}
+{"text": "It is okay to leave a conversation and return later while treating myself with respect.", "author": "FORGE"}
+{"text": "A caring friendship can make a difficult moment gentler.", "author": "FORGE"}
+{"text": "I can pause before responding as trust grows between us.", "author": "FORGE"}
+{"text": "My well-being deserves to be acknowledged.", "author": "FORGE"}
+{"text": "I can welcome closeness while making space for differences.", "author": "FORGE"}
+{"text": "It is okay to leave a conversation and return later without explaining more than I want to.", "author": "FORGE"}
+{"text": "A caring friendship can help both people feel heard.", "author": "FORGE"}
+{"text": "I can pause before responding when emotions are running high.", "author": "FORGE"}
+{"text": "My well-being deserves patience as I learn.", "author": "FORGE"}
+{"text": "I can welcome closeness and still honor my boundaries.", "author": "FORGE"}
+{"text": "It is okay to leave a conversation and return later and remain open to understanding.", "author": "FORGE"}
+{"text": "A caring friendship can be a step toward mutual respect.", "author": "FORGE"}
+{"text": "I can pause before responding while learning what matters to someone.", "author": "FORGE"}
+{"text": "My well-being deserves honesty and compassion.", "author": "FORGE"}
+{"text": "I can welcome closeness without having all the answers.", "author": "FORGE"}
+{"text": "It is okay to leave a conversation and return later while honoring another person’s feelings.", "author": "FORGE"}
+{"text": "A caring friendship can help me stay true to myself.", "author": "FORGE"}
+{"text": "I can pause before responding when I am deciding what to share.", "author": "FORGE"}
+{"text": "My well-being deserves room to change over time.", "author": "FORGE"}
+{"text": "I can welcome closeness with warmth and clear communication.", "author": "FORGE"}
+{"text": "It is okay to leave a conversation and return later and choose how I want to respond.", "author": "FORGE"}
+{"text": "A caring friendship can make space for different perspectives.", "author": "FORGE"}
+{"text": "I can pause before responding while respecting my own feelings.", "author": "FORGE"}
+{"text": "My well-being deserves to be taken seriously.", "author": "FORGE"}
+{"text": "I can welcome closeness while allowing trust to develop.", "author": "FORGE"}
+{"text": "It is okay to leave a conversation and return later as I learn what feels healthy for me.", "author": "FORGE"}
+{"text": "A caring friendship can strengthen the way I relate to others.", "author": "FORGE"}
+{"text": "I can pause before responding when I need more time to think.", "author": "FORGE"}
+{"text": "My well-being deserves thoughtful attention.", "author": "FORGE"}
+{"text": "I can welcome closeness and remember that care goes both ways.", "author": "FORGE"}
+{"text": "It is okay to leave a conversation and return later without judging myself for needing care.", "author": "FORGE"}
+{"text": "A caring friendship can be valuable even when it feels small.", "author": "FORGE"}
+{"text": "I can pause before responding when someone shares their perspective.", "author": "FORGE"}
+{"text": "My well-being deserves to be treated with dignity.", "author": "FORGE"}
+{"text": "I can welcome closeness without rushing what takes time.", "author": "FORGE"}
+{"text": "It is okay to leave a conversation and return later and protect the space I need.", "author": "FORGE"}
+{"text": "A caring friendship can help me approach conflict thoughtfully.", "author": "FORGE"}
+{"text": "I can pause before responding as we work through a disagreement.", "author": "FORGE"}
+{"text": "My well-being deserves care on ordinary days.", "author": "FORGE"}
+{"text": "I can welcome closeness with room for kindness and growth.", "author": "FORGE"}
