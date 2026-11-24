@@ -38,20 +38,23 @@ Sharing is optional: the Today button shows a preview and lets you select what t
 
 ## Development
 
-The React migration is **incremental**. React owns the navigation, Today, Fuel, and Training overview using small components; the routine builder, exercise library, analysis, history, settings, and dialogs still run on the existing JavaScript implementation. The shared storage format and existing event handlers are retained so existing data continues to work. This is a static app with no build step or server requirement.
+The React migration is **incremental**. React owns the navigation, Today, Fuel, and the Training overview, analysis, and history screens using small components; the routine builder, exercise library, settings, and dialogs still run on the existing JavaScript implementation. The shared storage format and existing event handlers are retained so existing data continues to work. This is a static app with no build step or server requirement.
 
 ```text
 index.html                 App shell and script loading order
 src/components/today.js    React Today screen and reusable UI components
 src/components/fuel.js     React food history screen
 src/components/training-overview.js  React training overview and tabs
+src/components/training-details.js   React analysis and history screens
 src/components/navigation.js         React bottom navigation
 src/legacy/core.js         Existing storage, navigation, and entry handling
 src/legacy/workout.js      Workout logging and initial plan
-src/legacy/training.js     Training views, analysis, and cardio
+src/legacy/training-v16.js Training routines, library, and cardio actions
+src/legacy/training.js     Previous script retained for cached older app shells
 src/legacy/routine.js      Routine editor
 src/legacy/library.js      Exercise filtering and reference photos
-src/legacy/nutrition-v14.js Affirmations, nutrition planner, and React bridge
+src/legacy/nutrition-v16.js Affirmations, nutrition planner, and React bridge
+src/legacy/nutrition-v14.js Previous bridge retained for cached older app shells
 src/legacy/nutrition.js     Previous bridge retained for cached older app shells
 src/legacy/sharing.js      Share preview, zoom handling, and startup
 src/styles-v15.css         Shared app styles and fixed navigation stacking
