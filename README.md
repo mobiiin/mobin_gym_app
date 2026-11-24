@@ -38,7 +38,7 @@ Sharing is optional: the Today button shows a preview and lets you select what t
 
 ## Development
 
-The React migration is **incremental**. React owns the navigation, Today, Fuel, and the Training overview, analysis, and history screens using small components; the routine builder, exercise library, settings, and dialogs still run on the existing JavaScript implementation. The shared storage format and existing event handlers are retained so existing data continues to work. This is a static app with no build step or server requirement.
+The user-facing screens and dialogs are implemented as React components. Existing JavaScript storage, nutrition calculations, and delegated actions remain behind a compatibility layer so existing data continues to work. This is a static app with no build step or server requirement.
 
 ```text
 index.html                 App shell and script loading order
@@ -47,16 +47,24 @@ src/components/fuel.js     React food history screen
 src/components/training-overview.js  React training overview and tabs
 src/components/training-details.js   React analysis and history screens
 src/components/navigation.js         React bottom navigation
+src/components/training-plan.js       React routine and exercise library
+src/components/settings.js            React nutrition planner and wheels
+src/components/entry-dialogs.js       React logging and share dialogs
+src/components/edit-dialogs.js        React routine and exercise dialogs
 src/legacy/core.js         Existing storage, navigation, and entry handling
-src/legacy/workout.js      Workout logging and initial plan
-src/legacy/training-v16.js Training routines, library, and cardio actions
+src/legacy/workout-v17.js  Workout state, timer, and initial plan
+src/legacy/training-v17.js Training state and delegated actions
+src/legacy/training-v16.js Previous script retained for cached older app shells
 src/legacy/training.js     Previous script retained for cached older app shells
 src/legacy/routine.js      Routine editor
-src/legacy/library.js      Exercise filtering and reference photos
-src/legacy/nutrition-v16.js Affirmations, nutrition planner, and React bridge
+src/legacy/library-v17.js  Exercise filtering and reference photos
+src/legacy/library.js      Previous script retained for cached older app shells
+src/legacy/nutrition-v17.js Affirmations, nutrition calculations, and React bridge
+src/legacy/nutrition-v16.js Previous bridge retained for cached older app shells
 src/legacy/nutrition-v14.js Previous bridge retained for cached older app shells
 src/legacy/nutrition.js     Previous bridge retained for cached older app shells
-src/legacy/sharing.js      Share preview, zoom handling, and startup
+src/legacy/dialogs-v17.js  Dialog actions and state compatibility
+src/legacy/sharing-v17.js  Share data, zoom handling, and startup
 src/styles-v15.css         Shared app styles and fixed navigation stacking
 src/styles.css             Previous stylesheet retained for cached older app shells
 vendor/                    Locally hosted React 18.2.0 and React DOM (MIT)
@@ -77,7 +85,7 @@ Run the dependency-free smoke check with Node.js:
 node tests/modular.cjs
 ```
 
-The static site can be deployed from the repository root on GitHub Pages. The service worker caches the scripts, style sheet, and data files; increment its cache name when changing cached assets. React's production files are vendored locally so the core app does not depend on a third-party CDN. Further screens can move into React incrementally; avoid running React and legacy rendering against the same DOM subtree.
+The static site can be deployed from the repository root on GitHub Pages. The service worker caches the scripts, style sheet, and data files; increment its cache name when changing cached assets. React's production files are vendored locally so the core app does not depend on a third-party CDN. The compatibility layer still contains older helpers and event handlers; it can be simplified as those actions are moved into React. Older versioned files remain available to previously cached app shells.
 
 ## Sources and limitations
 
