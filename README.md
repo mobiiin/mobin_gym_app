@@ -17,7 +17,7 @@ FORGE is a personal fitness tracker designed for iPhone. It combines a flexible 
 Screenshots show an empty demonstration state; your own entries appear after you start logging.
 
 - **Today:** Daily food and training summaries, a random affirmation, quick logging, and a shareable text preview. You choose which details to include before sharing.
-- **Training:** Log sets and cardio, track body weight, use a rest timer, and explore the overview, routine, exercise library, analysis, and history tabs.
+- **Training:** Start a timed workout by choosing a routine and day, log individual sets as you train, resume an unfinished session on the same device, and finish to save it to history. Log cardio, track body weight, use a rest timer, and explore the overview, routine, exercise library, analysis, and history tabs.
 - **Routines:** Create and switch between routines, add or remove training days and exercises, reorder or move exercises, and set optional targets and notes. The starting template uses the owner's five-day split, and Explore templates offers editable 2–5 day gym and home options.
 - **Exercise library:** Browse 876 exercises from Free Exercise DB plus additional cardio activities and your own custom exercises. Filter by body region, muscle, or equipment. Exercise reference photos require an internet connection.
 - **Analysis:** Inspect training history by assigned primary muscle, including set counts and weighted exercise trends. These describe logged training, not measured muscle growth.
