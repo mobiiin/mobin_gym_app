@@ -18,7 +18,7 @@ Screenshots show an empty demonstration state; your own entries appear after you
 
 - **Today:** Daily food and training summaries, a random affirmation, quick logging, and a shareable text preview. You choose which details to include before sharing.
 - **Training:** Log sets and cardio, track body weight, use a rest timer, and explore the overview, routine, exercise library, analysis, and history tabs.
-- **Routines:** Create and switch between routines, add or remove training days and exercises, reorder or move exercises, and set optional targets and notes. The starting template uses the owner's five-day split, but you can build a different schedule.
+- **Routines:** Create and switch between routines, add or remove training days and exercises, reorder or move exercises, and set optional targets and notes. The starting template uses the owner's five-day split, and Explore templates offers editable 2–5 day gym and home options.
 - **Exercise library:** Browse 876 exercises from Free Exercise DB plus additional cardio activities and your own custom exercises. Filter by body region, muscle, or equipment. Exercise reference photos require an internet connection.
 - **Analysis:** Inspect training history by assigned primary muscle, including set counts and weighted exercise trends. These describe logged training, not measured muscle growth.
 - **Fuel and goals:** Log food and macros manually. The optional calorie and macro planner estimates a starting target using your profile, activity level, weight goal, and preferences; review the result before applying it.
@@ -89,9 +89,12 @@ Run the dependency-free smoke checks with Node.js:
 node tests/modular.cjs
 node tests/backup.cjs
 node tests/sync-decision.cjs
+node tests/routine-templates.cjs
 ```
 
 The static site can be deployed from the repository root on GitHub Pages. The service worker caches the scripts, style sheet, and data files; increment its cache name when changing cached assets. React's production files are vendored locally so the core app does not depend on a third-party CDN. The compatibility layer still contains older helpers and event handlers; it can be simplified as those actions are moved into React. Older versioned files remain available to previously cached app shells.
+
+The [routine template research notes](docs/routine-research.md) describe the evidence and limitations behind these starting plans.
 
 ## Sources and limitations
 
