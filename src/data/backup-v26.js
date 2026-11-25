@@ -1,0 +1,38 @@
+// Versioned, portable backup format. The original unwrapped FORGE JSON remains supported.
+(function(global){
+  const isObject=x=>x!==null&&typeof x==='object'&&!Array.isArray(x);
+  const validDay=d=>isObject(d)&&typeof d.name==='string'&&Array.isArray(d.priority)&&Array.isArray(d.optional)&&[...d.priority,...d.optional].every(x=>typeof x==='string')&&(!('details'in d)||(Array.isArray(d.details)&&d.details.every(x=>isObject(x)&&typeof x.name==='string')));
+  function validate(data){
+    if(!isObject(data)||!isObject(data.goals)||!Array.isArray(data.foods)||!Array.isArray(data.sets))throw Error('This file is missing FORGE goals, food entries, or workout entries.');
+    for(const key of ['calories','protein','carbs','fat'])if(data.goals[key]==null||!Number.isFinite(Number(data.goals[key]))||Number(data.goals[key])<0)throw Error(`The ${key} target is invalid.`);
+    const arrayKeys=['foods','sets','body','cardio','customExercises','dayPlans','exercisePool','routines','workoutSessions','exerciseNotes','measurements','trainingSchedule','foodLibrary','savedMeals','fuelRecipes','waterEntries','fuelNotes'];
+    for(const key of arrayKeys)if(key in data&&!Array.isArray(data[key]))throw Error(`The ${key} section is invalid.`);
+    for(const [key,name] of [['foods','name'],['sets','exercise'],['body','weight'],['cardio','name']])for(const item of data[key]||[]){if(!isObject(item)||typeof item.id!=='string'||typeof item.date!=='string'||!/^\d{4}-\d{2}-\d{2}$/.test(item.date)||item[name]===undefined||item[name]===null||((key==='foods'||key==='sets'||key==='cardio')&&typeof item[name]!=='string')||(key==='body'&&(!Number.isFinite(Number(item.weight))||Number(item.weight)<=0)))throw Error(`An entry in ${key} is invalid.`)}
+    if(data.dayPlans&&!data.dayPlans.every(validDay))throw Error('A training day is invalid.');
+    if(data.routines&&(!data.routines.length||!data.routines.every(r=>isObject(r)&&typeof r.id==='string'&&typeof r.name==='string'&&Array.isArray(r.days)&&r.days.every(validDay))))throw Error('A saved routine is invalid.');
+    if(data.activeRoutine!==undefined&&typeof data.activeRoutine!=='string')throw Error('The active routine is invalid.');
+    if(data.exercisePool&&!data.exercisePool.every(x=>typeof x==='string'))throw Error('The exercise pool is invalid.');
+    if(data.customExercises&&!data.customExercises.every(x=>isObject(x)&&typeof x.name==='string'&&(!('primary'in x)||Array.isArray(x.primary))&&(!('secondary'in x)||Array.isArray(x.secondary))))throw Error('A custom exercise is invalid.');
+    if(data.profile!==undefined&&!isObject(data.profile))throw Error('The nutrition profile is invalid.');
+    if(data.plans!==undefined&&!isObject(data.plans))throw Error('The plans section is invalid.');
+    if(data.workoutDraft!=null){const d=data.workoutDraft;if(!isObject(d)||typeof d.id!=='string'||typeof d.date!=='string'||!Number.isFinite(d.startedAt)||!Array.isArray(d.exercises)||!Array.isArray(d.rows)||!d.exercises.every(x=>isObject(x)&&typeof x.name==='string')||!d.rows.every(x=>isObject(x)&&typeof x.id==='string'&&typeof x.exercise==='string'))throw Error('The unfinished workout is invalid.');}
+    for(const item of data.workoutSessions||[])if(!isObject(item)||typeof item.id!=='string'||typeof item.date!=='string'||typeof item.dayName!=='string'||!Number.isFinite(item.durationSeconds))throw Error('A workout session is invalid.');
+    for(const item of data.exerciseNotes||[])if(!isObject(item)||typeof item.name!=='string'||typeof item.text!=='string')throw Error('An exercise note is invalid.');
+    for(const item of data.measurements||[])if(!isObject(item)||typeof item.id!=='string'||typeof item.type!=='string'||!/^\d{4}-\d{2}-\d{2}$/.test(item.date)||!(Number(item.value)>0)||!['cm','in','%'].includes(item.unit))throw Error('A body measurement is invalid.');
+    for(const item of data.trainingSchedule||[])if(!isObject(item)||typeof item.id!=='string'||typeof item.routineId!=='string'||typeof item.dayName!=='string'||!/^\d{4}-\d{2}-\d{2}$/.test(item.date)||!/^([01]\d|2[0-3]):[0-5]\d$/.test(item.time))throw Error('A scheduled workout is invalid.');
+    const nutritionKeys=['calories','protein','carbs','fat','fiber','sugar','sodium','saturatedFat'];
+    const validFood=f=>isObject(f)&&typeof f.name==='string'&&Number(f.baseAmount)>0&&Number.isFinite(Number(f.baseAmount))&&['serving','g','ml'].includes(f.baseUnit)&&f.calories!=null&&f.calories!==''&&Number.isFinite(Number(f.calories))&&Number(f.calories)>=0&&nutritionKeys.every(k=>f[k]==null||f[k]===''||(Number.isFinite(Number(f[k]))&&Number(f[k])>=0));
+    for(const food of data.foodLibrary||[])if(!validFood(food)||typeof food.id!=='string')throw Error('A saved food is invalid.');
+    for(const food of data.foods){if(food.basis&&(!validFood(food.basis)||!(Number(food.amount)>0)||!Number.isFinite(Number(food.amount))))throw Error('A food portion is invalid.');}
+    for(const meal of data.savedMeals||[])if(!isObject(meal)||typeof meal.id!=='string'||typeof meal.name!=='string'||!Array.isArray(meal.items)||!meal.items.every(x=>isObject(x)&&typeof x.name==='string'&&(!x.basis||validFood(x.basis))))throw Error('A saved meal is invalid.');
+    for(const recipe of data.fuelRecipes||[])if(!isObject(recipe)||typeof recipe.id!=='string'||typeof recipe.name!=='string'||!(Number(recipe.yield)>0)||!Number.isFinite(Number(recipe.yield))||!validFood(recipe.nutrition)||!Array.isArray(recipe.ingredients)||!recipe.ingredients.every(x=>isObject(x)&&validFood(x.food)&&Number(x.amount)>0&&Number.isFinite(Number(x.amount))))throw Error('A recipe is invalid.');
+    for(const water of data.waterEntries||[])if(!isObject(water)||typeof water.id!=='string'||!/^\d{4}-\d{2}-\d{2}$/.test(water.date)||!(Number(water.ml)>0)||!Number.isFinite(Number(water.ml)))throw Error('A water entry is invalid.');
+    for(const note of data.fuelNotes||[])if(!isObject(note)||typeof note.text!=='string'||!/^\d{4}-\d{2}-\d{2}$/.test(note.date))throw Error('A diary note is invalid.');
+    if(data.waterGoalML!=null&&(!(Number(data.waterGoalML)>0)||!Number.isFinite(Number(data.waterGoalML))))throw Error('The water goal is invalid.');
+    return data;
+  }
+  function parse(text){let parsed;try{parsed=JSON.parse(text)}catch{throw Error('This file is not valid JSON.')};let data=parsed;if(isObject(parsed)&&parsed.format==='forge-backup'){if(parsed.version!==1)throw Error('This backup uses an unsupported version.');data=parsed.data}return validate(data)}
+  function serialize(state){validate(state);return JSON.stringify({format:'forge-backup',version:1,exportedAt:new Date().toISOString(),data:state},null,2)}
+  function summary(state){return {foods:state.foods.length,sets:state.sets.length,cardio:(state.cardio||[]).length,weights:(state.body||[]).length,routines:(state.routines||[]).length}}
+  global.ForgeBackup={parse,serialize,summary,validate};
+})(typeof window==='object'?window:globalThis);

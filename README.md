@@ -120,3 +120,13 @@ Research includes [Morton et al. on protein and resistance training](https://pub
 All new data remains on the device in the same existing storage and backup system. The update does not establish cloud sync. Older logs without session IDs are grouped by date in recent-performance views. Changing an exercise's name creates a separate history match.
 
 Run `node tests/training-v23.cjs` for calculation, migration and persistence model checks. The UI stays within FORGE's React components; no code, graphics or protected assets from the reference APK are included.
+
+## Fuel workspace
+
+Fuel now has **Diary**, **My Foods**, **Meals & Recipes**, **Nutrition**, and **Trends** tabs. Pick a date, log foods into meal sections, enter label values once and scale portions automatically. Save favorites, reuse recent/frequent foods, copy meals or whole days with a preview, and save meals for later. Recipes sum saved ingredients and divide by an editable serving yield.
+
+Optional fiber, sugar, sodium and saturated fat are tracked with explicit coverage; missing values remain unknown. The diary includes water in ml or US fluid ounces, an optional personal water target, and daily notes. Nutrition trends cover 7, 14 or 30 days. Exercise calories are not added back automatically. All existing calorie and macro goals still come from Settings.
+
+The food library is personal and works offline. This release does not include a global product database, barcode-camera scanning, or AI photo calorie estimates. The reference app informed workflow ideas only; no proprietary assets or nutrition data were copied. See [Fuel design notes](docs/fuel-reference.md).
+
+Full JSON backups include saved foods, meals, recipes, notes and water entries. Run `node tests/fuel-v26.cjs` and `node tests/modular-v26.cjs` to verify portions, recipes, old log compatibility, backup round trips and UI integration.
