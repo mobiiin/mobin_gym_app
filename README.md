@@ -103,3 +103,20 @@ The exercise catalogue adapts [Free Exercise DB](https://github.com/yuhonas/free
 The nutrition planner uses the [Mifflin–St Jeor equations](https://pubmed.ncbi.nlm.nih.gov/2305711/) and an activity multiplier. It approximates requested weight change using 7,700 kcal/kg; real changes are not linear. Default protein targets are 1.8 g/kg for maintenance, 2.0 g/kg for a bulk, and 2.2 g/kg for a cut, with adjustable protein and fat preferences. Carbohydrates fill remaining calories. These are starting estimates, not guarantees or medical advice.
 
 Research includes [Morton et al. on protein and resistance training](https://pubmed.ncbi.nlm.nih.gov/28698222/), [Longland et al. on protein during a deficit](https://pubmed.ncbi.nlm.nih.gov/26817506/), and [Helms et al. on surplus size](https://pubmed.ncbi.nlm.nih.gov/37914977/). Individual needs vary, and the planner does not predict exactly how much weight change will be muscle or fat.
+
+
+## Training workspace (v23)
+
+- Guided sessions with editable set rows, previous performance, persistent inputs, automatic rest countdowns, warm-up/working/drop/failure tags and optional RPE.
+- Exercise notes can be pinned for future sessions or kept with one workout. Superset groups guide you to the next exercise and rest after the final member.
+- Add, remove, reorder and change tracking type during a workout. Timed holds and cardio have appropriate duration fields.
+- A finish review saves session notes and results, and can optionally update the routine's exercises, rest times, groups and working-set targets. A concurrent routine edit prevents overwriting it.
+- Records and charts compare weights in a common unit. Warm-ups are excluded from working volume and records. Estimated 1RM uses Epley for 2–10 reps and actual load for 1 rep; it is not a tested maximum and does not adjust for RPE.
+- Schedule dated sessions once or weekly. Export `.ics` events to a calendar for reminders; FORGE itself does not provide reliable background alarms. Calendar handling depends on the receiving app.
+- Track waist, chest, hips, neck, bilateral arms/forearms/thighs/calves and body fat, with editable entries and trends. Body weight remains in Overview.
+- Plate calculations respect available pairs. Warm-up percentages and reps are editable calculation examples, not individualized training advice.
+- Training CSV exports are for analysis; the full Settings JSON backup preserves routines, drafts, sessions, notes, schedule and measurements and can be restored.
+
+All new data remains on the device in the same existing storage and backup system. The update does not establish cloud sync. Older logs without session IDs are grouped by date in recent-performance views. Changing an exercise's name creates a separate history match.
+
+Run `node tests/training-v23.cjs` for calculation, migration and persistence model checks. The UI stays within FORGE's React components; no code, graphics or protected assets from the reference APK are included.
